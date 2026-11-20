@@ -1,0 +1,451 @@
+student_id,name,email,gender,department,batch,graduation_year,cgpa,attendance,backlog_count,aptitude_score,technical_score,communication_score,programming_rating,projects_count,certifications_count,internships_count,soft_skills_score,placement_eligible,placement_status,company_name,job_role,salary_package
+CT2025CS001,Meera Gupta,meera.gupta001@campus.edu,Male,Computer Science,2021-2025,2025,7.9,87.9,0,86.6,73.4,74.1,4.1,4,2,1,78.7,1,Placed,Google,Cloud Associate,22.32
+CT2025IT002,Aditi Banerjee,aditi.banerjee002@campus.edu,Male,Information Technology,2021-2025,2025,6.6,72.4,1,54.1,48.0,77.6,2.1,1,2,0,56.6,1,Not Placed,,,
+CT2025DS003,Dhruv Nair,dhruv.nair003@campus.edu,Female,Data Science & AI,2021-2025,2025,7.1,82.6,0,68.4,53.1,64.1,2.9,3,1,0,66.1,1,Placed,Infosys,Specialist Programmer,7.19
+CT2025ME004,Rhea Patel,rhea.patel004@campus.edu,Female,Mechanical,2021-2025,2025,6.89,81.6,0,73.6,78.9,68.6,2.8,2,3,1,74.6,1,Placed,Oracle,Database Developer,14.52
+CT2026IT005,Bhavya Gupta,bhavya.gupta005@campus.edu,Female,Information Technology,2022-2026,2026,7.5,89.5,0,69.3,67.4,70.1,2.3,2,2,1,85.7,1,In Process,,,
+CT2025EC006,Meera Saxena,meera.saxena006@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.41,76.5,1,54.6,44.1,64.6,1.9,2,1,0,74.4,1,Not Placed,,,
+CT2025ME007,Pooja Verma,pooja.verma007@campus.edu,Male,Mechanical,2021-2025,2025,6.97,79.2,0,56.8,70.6,70.4,2.1,2,1,0,72.0,1,Placed,TCS,Digital Innovator,4.52
+CT2025DS008,Devika Gupta,devika.gupta008@campus.edu,Female,Data Science & AI,2021-2025,2025,8.21,83.2,0,60.8,57.3,73.7,3.0,3,2,0,69.7,1,Placed,Cognizant,GenC Next,5.01
+CT2025IT009,Bhavya Verma,bhavya.verma009@campus.edu,Female,Information Technology,2021-2025,2025,5.93,76.1,1,57.1,52.1,91.8,2.1,2,2,0,66.3,0,Not Placed,,,
+CT2025DS010,Vikram Sharma,vikram.sharma010@campus.edu,Female,Data Science & AI,2021-2025,2025,6.92,77.8,0,56.7,71.7,71.2,2.1,2,1,1,72.0,1,Placed,Infosys,Systems Engineer,5.03
+CT2026CS011,Kunal Das,kunal.das011@campus.edu,Female,Computer Science,2022-2026,2026,8.39,91.6,0,90.6,79.7,81.7,3.3,3,3,1,73.4,1,In Process,,,
+CT2025ME012,Dhruv Bhat,dhruv.bhat012@campus.edu,Female,Mechanical,2021-2025,2025,7.43,82.9,0,75.5,79.3,62.7,3.7,1,2,1,76.0,1,Placed,Google,Cloud Associate,26.89
+CT2026EC013,Nikhil Gupta,nikhil.gupta013@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.52,87.6,0,65.6,71.3,70.2,2.9,3,3,2,76.7,1,Placed,TCS,Ninja Developer,7.13
+CT2025IT014,Sneha Banerjee,sneha.banerjee014@campus.edu,Male,Information Technology,2021-2025,2025,8.82,91.8,0,88.3,84.1,74.1,3.9,3,4,2,79.2,1,Placed,Zomato,Backend Developer,13.56
+CT2025EC015,Varun Singh,varun.singh015@campus.edu,Male,Electronics & Comm,2021-2025,2025,8.22,87.1,0,73.3,79.9,76.6,3.7,3,3,1,87.2,1,Placed,Microsoft,Software Dev Engineer,20.06
+CT2025CS016,Ananya Joshi,ananya.joshi016@campus.edu,Male,Computer Science,2021-2025,2025,9.19,91.4,0,92.1,84.9,85.3,4.7,5,4,2,98.0,1,Placed,Amazon,Operations,21.78
+CT2025DS017,Chetan Malhotra,chetan.malhotra017@campus.edu,Male,Data Science & AI,2021-2025,2025,7.31,74.5,0,63.6,62.5,72.5,3.2,1,0,0,76.5,1,Placed,Accenture,Associate Software Engineer,5.31
+CT2025CS018,Harsh Banerjee,harsh.banerjee018@campus.edu,Male,Computer Science,2021-2025,2025,5.72,73.7,0,60.8,61.2,63.1,2.9,0,0,0,63.4,0,Not Placed,,,
+CT2025CS019,Vikram Reddy,vikram.reddy019@campus.edu,Male,Computer Science,2021-2025,2025,7.04,78.9,1,60.3,79.3,71.4,3.0,3,2,1,69.9,1,Not Placed,,,
+CT2026IT020,Aryan Iyer,aryan.iyer020@campus.edu,Male,Information Technology,2022-2026,2026,6.13,69.0,3,40.8,41.3,50.5,2.3,2,1,0,69.6,0,Not Placed,,,
+CT2026ME021,Tanvi Mehta,tanvi.mehta021@campus.edu,Male,Mechanical,2022-2026,2026,6.74,75.4,0,56.1,59.2,60.1,2.6,2,1,0,62.0,1,Not Placed,,,
+CT2026CS022,Aryan Verma,aryan.verma022@campus.edu,Female,Computer Science,2022-2026,2026,6.05,73.4,2,44.1,49.4,45.7,2.1,0,0,1,60.9,0,Not Placed,,,
+CT2025ME023,Kavya Rao,kavya.rao023@campus.edu,Male,Mechanical,2021-2025,2025,7.62,84.6,0,73.4,80.8,77.0,3.4,3,2,0,72.0,1,Placed,Oracle,Database Developer,13.1
+CT2025ME024,Kunal Nair,kunal.nair024@campus.edu,Female,Mechanical,2021-2025,2025,7.47,88.0,0,85.3,70.0,87.8,3.7,3,3,1,91.4,1,Placed,Deloitte,Consultant,9.1
+CT2025CS025,Akash Pillai,akash.pillai025@campus.edu,Other,Computer Science,2021-2025,2025,7.86,90.5,0,88.6,81.3,93.1,3.6,2,1,0,86.3,1,Placed,Amazon,SDE I,25.03
+CT2025IT026,Vidya Saxena,vidya.saxena026@campus.edu,Male,Information Technology,2021-2025,2025,6.57,76.3,2,65.8,43.1,76.3,2.2,1,0,0,55.1,0,Not Placed,,,
+CT2026CS027,Devika Chopra,devika.chopra027@campus.edu,Male,Computer Science,2022-2026,2026,6.87,92.0,0,67.2,64.3,69.7,3.2,2,1,0,66.8,1,Placed,Wipro,Project Engineer,5.68
+CT2025EC028,Kunal Verma,kunal.verma028@campus.edu,Male,Electronics & Comm,2021-2025,2025,5.96,68.6,2,65.4,54.4,70.9,2.2,0,1,0,65.1,0,Not Placed,,,
+CT2025DS029,Sahil Banerjee,sahil.banerjee029@campus.edu,Male,Data Science & AI,2021-2025,2025,7.4,75.7,0,53.9,50.6,72.7,2.5,3,0,1,78.5,1,Not Placed,,,
+CT2025EC030,Dhruv Kulkarni,dhruv.kulkarni030@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.64,79.7,0,64.8,69.5,64.3,3.1,1,3,1,75.0,1,Placed,Zomato,Backend Developer,14.49
+CT2026IT031,Priya Banerjee,priya.banerjee031@campus.edu,Female,Information Technology,2022-2026,2026,6.99,71.9,0,76.7,57.5,65.7,2.0,2,1,0,65.9,1,In Process,,,
+CT2026IT032,Gaurav Kulkarni,gaurav.kulkarni032@campus.edu,Male,Information Technology,2022-2026,2026,7.51,82.5,0,75.7,76.2,81.9,3.5,2,3,0,80.0,1,In Process,,,
+CT2025IT033,Chetan Rao,chetan.rao033@campus.edu,Female,Information Technology,2021-2025,2025,7.7,81.9,0,69.7,73.5,67.6,3.0,2,2,0,69.9,1,Placed,Cisco,Systems Engineer,13.53
+CT2025IT034,Harsh Rao,harsh.rao034@campus.edu,Male,Information Technology,2021-2025,2025,9.44,93.8,0,99.0,100.0,86.2,4.6,4,3,3,82.6,1,Placed,Cisco,Systems Engineer,16.7
+CT2025EC035,Kunal Verma,kunal.verma035@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.74,75.4,0,58.5,54.9,76.4,2.9,1,1,0,70.4,1,Placed,Cognizant,Programmer Analyst,5.08
+CT2025EC036,Sahil Sharma,sahil.sharma036@campus.edu,Male,Electronics & Comm,2021-2025,2025,8.1,79.5,0,71.2,67.4,81.2,3.7,2,2,1,78.0,1,Placed,Deloitte,Technology Analyst,8.77
+CT2025EC037,Deepak Agarwal,deepak.agarwal037@campus.edu,Female,Electronics & Comm,2021-2025,2025,7.69,84.3,0,83.4,74.4,75.3,2.9,3,3,1,87.6,1,Placed,Deloitte,Consultant,9.44
+CT2026DS038,Gaurav Menon,gaurav.menon038@campus.edu,Female,Data Science & AI,2022-2026,2026,7.13,85.7,0,62.8,56.6,82.6,2.4,0,2,0,65.1,1,In Process,,,
+CT2025IT039,Zoya Menon,zoya.menon039@campus.edu,Female,Information Technology,2021-2025,2025,7.54,80.6,0,71.9,59.2,83.2,2.9,3,2,0,74.4,1,Placed,Wipro,Project Engineer,5.51
+CT2025ME040,Kavya Malhotra,kavya.malhotra040@campus.edu,Male,Mechanical,2021-2025,2025,6.44,77.3,0,47.7,51.5,74.5,2.9,2,1,0,68.6,1,Placed,Wipro,Project Engineer,4.92
+CT2025ME041,Rhea Kumar,rhea.kumar041@campus.edu,Male,Mechanical,2021-2025,2025,9.08,90.7,0,82.3,92.1,86.3,4.3,4,4,2,78.6,1,Placed,Google,Cloud Associate,24.19
+CT2025ME042,Vikram Gupta,vikram.gupta042@campus.edu,Female,Mechanical,2021-2025,2025,7.58,85.0,0,63.3,66.9,59.0,3.1,3,2,0,81.7,1,Placed,Cognizant,GenC Next,6.66
+CT2026ME043,Utkarsh Kulkarni,utkarsh.kulkarni043@campus.edu,Female,Mechanical,2022-2026,2026,8.04,82.5,0,71.2,74.8,85.3,3.5,3,3,1,58.4,1,In Process,,,
+CT2026EC044,Meera Das,meera.das044@campus.edu,Male,Electronics & Comm,2022-2026,2026,8.22,81.0,0,79.0,91.7,86.8,3.6,3,2,2,91.4,1,In Process,,,
+CT2025EC045,Vidya Patel,vidya.patel045@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.87,86.6,0,73.4,75.6,49.5,3.7,2,3,1,66.3,1,Placed,Google,Cloud Associate,26.08
+CT2025DS046,Saanvi Rao,saanvi.rao046@campus.edu,Female,Data Science & AI,2021-2025,2025,7.67,93.2,0,69.6,78.9,71.1,3.8,3,3,1,79.0,1,Placed,Zomato,Product Operations,12.38
+CT2026EC047,Saanvi Banerjee,saanvi.banerjee047@campus.edu,Female,Electronics & Comm,2022-2026,2026,8.64,87.1,0,74.1,86.2,74.2,4.7,5,3,2,96.7,1,Placed,Cisco,Systems Engineer,14.18
+CT2026EC048,Rohan Agarwal,rohan.agarwal048@campus.edu,Male,Electronics & Comm,2022-2026,2026,8.28,87.0,0,78.7,73.7,75.8,3.1,3,2,0,70.7,1,In Process,,,
+CT2025DS049,Aditi Patel,aditi.patel049@campus.edu,Female,Data Science & AI,2021-2025,2025,7.07,71.2,0,65.9,59.5,71.6,2.9,3,2,0,65.2,1,Placed,Wipro,Turbo Dev,4.21
+CT2025DS050,Saanvi Chopra,saanvi.chopra050@campus.edu,Female,Data Science & AI,2021-2025,2025,7.5,71.6,0,62.1,60.4,68.6,2.6,2,1,0,65.3,1,Placed,Infosys,Systems Engineer,6.53
+CT2026CS051,Kavya Nair,kavya.nair051@campus.edu,Female,Computer Science,2022-2026,2026,6.49,78.3,1,56.8,60.4,54.4,2.9,3,0,0,69.7,1,Not Placed,,,
+CT2026EC052,Divya Menon,divya.menon052@campus.edu,Female,Electronics & Comm,2022-2026,2026,7.08,78.0,0,77.3,73.5,76.0,2.6,2,3,0,72.1,1,In Process,,,
+CT2025CS053,Nikhil Pillai,nikhil.pillai053@campus.edu,Female,Computer Science,2021-2025,2025,5.75,77.1,2,74.2,52.5,69.9,2.5,1,2,0,62.5,0,Not Placed,,,
+CT2026CS054,Nikhil Malhotra,nikhil.malhotra054@campus.edu,Female,Computer Science,2022-2026,2026,7.05,77.3,0,68.0,64.2,70.6,3.3,3,2,2,75.0,1,In Process,,,
+CT2026DS055,Ayush Das,ayush.das055@campus.edu,Female,Data Science & AI,2022-2026,2026,6.84,76.6,0,63.8,60.5,67.1,3.0,3,2,0,58.8,1,In Process,,,
+CT2026DS056,Siddharth Saxena,siddharth.saxena056@campus.edu,Male,Data Science & AI,2022-2026,2026,6.23,73.1,1,56.3,48.1,52.4,2.5,1,1,0,56.0,1,Not Placed,,,
+CT2025DS057,Zoya Chopra,zoya.chopra057@campus.edu,Male,Data Science & AI,2021-2025,2025,7.94,95.8,0,73.9,82.3,79.8,4.2,4,3,2,72.2,1,Placed,Cisco,Network Engineer,15.75
+CT2025DS058,Tanvi Joshi,tanvi.joshi058@campus.edu,Male,Data Science & AI,2021-2025,2025,6.75,72.0,1,51.2,56.7,65.1,2.4,3,0,0,67.6,1,Not Placed,,,
+CT2025IT059,Saanvi Kumar,saanvi.kumar059@campus.edu,Female,Information Technology,2021-2025,2025,8.07,86.4,0,82.3,78.4,91.7,3.8,4,3,2,85.1,1,Placed,Google,Software Engineer,24.94
+CT2025IT060,Zoya Bhat,zoya.bhat060@campus.edu,Male,Information Technology,2021-2025,2025,8.9,89.1,0,76.9,84.7,75.5,3.8,4,4,2,83.4,1,Placed,Amazon,Data Engineer,20.17
+CT2026CS061,Pooja Reddy,pooja.reddy061@campus.edu,Female,Computer Science,2022-2026,2026,8.03,77.0,1,60.4,61.2,83.9,3.3,5,2,1,74.7,1,Placed,Zomato,Product Operations,11.38
+CT2025IT062,Rahul Iyer,rahul.iyer062@campus.edu,Male,Information Technology,2021-2025,2025,8.46,86.6,0,88.7,70.3,76.0,3.3,2,2,0,76.1,1,Placed,Google,Cloud Associate,28.97
+CT2025DS063,Aarav Pillai,aarav.pillai063@campus.edu,Male,Data Science & AI,2021-2025,2025,7.74,81.8,0,62.7,75.9,70.3,3.2,0,2,0,84.9,1,Not Placed,,,
+CT2025DS064,Ayush Rao,ayush.rao064@campus.edu,Male,Data Science & AI,2021-2025,2025,8.75,90.9,0,82.7,73.1,91.0,4.6,4,3,2,85.5,1,Placed,Amazon,SDE I,25.95
+CT2025DS065,Akash Gupta,akash.gupta065@campus.edu,Female,Data Science & AI,2021-2025,2025,8.13,85.4,0,72.6,68.6,76.1,3.3,1,3,2,80.4,1,Placed,Oracle,Cloud Analyst,12.53
+CT2026ME066,Chetan Nair,chetan.nair066@campus.edu,Female,Mechanical,2022-2026,2026,6.69,84.2,0,66.0,62.7,95.2,2.9,2,1,0,76.8,1,Placed,Infosys,Systems Engineer,4.46
+CT2025ME067,Ananya Gupta,ananya.gupta067@campus.edu,Male,Mechanical,2021-2025,2025,7.28,76.6,0,59.5,52.8,70.2,3.1,1,2,1,76.0,1,Placed,TCS,Digital Innovator,6.48
+CT2025IT068,Vidya Gupta,vidya.gupta068@campus.edu,Female,Information Technology,2021-2025,2025,6.99,81.9,2,57.1,40.1,59.1,2.6,2,0,0,61.9,0,Not Placed,,,
+CT2026ME069,Sakshi Reddy,sakshi.reddy069@campus.edu,Male,Mechanical,2022-2026,2026,6.85,72.8,0,57.3,53.3,60.5,2.3,1,2,0,55.7,1,Not Placed,,,
+CT2025ME070,Bhavya Menon,bhavya.menon070@campus.edu,Male,Mechanical,2021-2025,2025,8.77,85.4,0,71.2,84.6,76.4,2.9,4,2,0,76.2,1,Placed,Google,Software Engineer,31.62
+CT2025ME071,Aditi Malhotra,aditi.malhotra071@campus.edu,Female,Mechanical,2021-2025,2025,7.38,85.5,0,58.5,60.9,63.3,3.3,4,2,1,70.9,1,Placed,Cognizant,GenC Next,6.57
+CT2025ME072,Tanvi Patel,tanvi.patel072@campus.edu,Male,Mechanical,2021-2025,2025,9.41,99.0,0,94.5,91.1,72.1,4.1,3,5,1,82.2,1,Placed,Microsoft,Support Engineer,22.31
+CT2025ME073,Bhavya Joshi,bhavya.joshi073@campus.edu,Male,Mechanical,2021-2025,2025,7.06,81.1,0,65.7,71.2,83.4,2.5,3,2,1,76.6,1,Placed,Zomato,Backend Developer,13.29
+CT2025DS074,Varun Bhat,varun.bhat074@campus.edu,Female,Data Science & AI,2021-2025,2025,7.12,86.4,0,70.5,59.5,61.0,2.3,1,1,0,62.7,1,Placed,Infosys,Systems Engineer,7.7
+CT2025DS075,Aditya Gupta,aditya.gupta075@campus.edu,Female,Data Science & AI,2021-2025,2025,6.51,75.0,0,54.8,51.2,47.8,2.3,2,1,0,57.8,1,Not Placed,,,
+CT2025CS076,Deepak Kapoor,deepak.kapoor076@campus.edu,Female,Computer Science,2021-2025,2025,7.6,92.6,0,67.9,85.8,87.4,3.6,3,2,1,76.3,1,Placed,Amazon,Data Engineer,24.68
+CT2025IT077,Dhruv Rao,dhruv.rao077@campus.edu,Male,Information Technology,2021-2025,2025,7.07,81.6,0,64.4,58.5,67.3,2.6,2,1,0,78.3,1,Placed,Accenture,Advanced Analyst,6.05
+CT2026EC078,Utkarsh Chopra,utkarsh.chopra078@campus.edu,Female,Electronics & Comm,2022-2026,2026,5.69,67.6,1,44.0,41.7,53.8,1.1,1,0,0,60.8,0,Not Placed,,,
+CT2025ME079,Pranav Banerjee,pranav.banerjee079@campus.edu,Female,Mechanical,2021-2025,2025,7.89,88.4,0,73.7,73.6,70.9,3.3,2,3,2,71.6,1,Placed,Deloitte,Technology Analyst,9.5
+CT2025DS080,Sneha Saxena,sneha.saxena080@campus.edu,Female,Data Science & AI,2021-2025,2025,8.19,87.6,0,76.9,74.0,75.0,3.6,4,3,2,58.0,1,Placed,Deloitte,Technology Analyst,9.23
+CT2026ME081,Pranav Reddy,pranav.reddy081@campus.edu,Female,Mechanical,2022-2026,2026,7.07,81.8,0,67.6,66.7,72.5,2.6,3,2,0,62.2,1,In Process,,,
+CT2026DS082,Dhruv Patel,dhruv.patel082@campus.edu,Male,Data Science & AI,2022-2026,2026,5.79,68.9,3,44.1,50.9,57.6,2.0,0,1,0,53.3,0,Not Placed,,,
+CT2025ME083,Pooja Kapoor,pooja.kapoor083@campus.edu,Female,Mechanical,2021-2025,2025,8.11,89.6,0,95.0,77.2,71.7,3.3,2,2,1,72.9,1,Placed,Google,Software Engineer,28.31
+CT2026IT084,Sahil Reddy,sahil.reddy084@campus.edu,Female,Information Technology,2022-2026,2026,7.8,87.4,0,72.2,74.2,73.3,3.3,2,0,0,73.0,1,Placed,Oracle,Database Developer,11.23
+CT2025EC085,Sahil Mehta,sahil.mehta085@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.71,75.5,0,53.9,64.4,62.2,2.8,2,2,1,80.7,1,Placed,TCS,Ninja Developer,5.87
+CT2025IT086,Zoya Mehta,zoya.mehta086@campus.edu,Male,Information Technology,2021-2025,2025,6.91,75.1,1,63.4,51.9,63.5,2.3,1,2,0,62.6,1,Not Placed,,,
+CT2025CS087,Priya Pillai,priya.pillai087@campus.edu,Male,Computer Science,2021-2025,2025,8.31,84.4,1,74.1,78.1,89.8,3.4,2,3,1,77.0,1,Placed,Amazon,SDE I,25.99
+CT2026EC088,Neha Sharma,neha.sharma088@campus.edu,Female,Electronics & Comm,2022-2026,2026,8.85,84.7,0,87.1,89.2,91.4,4.4,3,2,1,73.4,1,In Process,,,
+CT2026CS089,Tanvi Deshmukh,tanvi.deshmukh089@campus.edu,Female,Computer Science,2022-2026,2026,7.2,80.0,0,77.3,51.0,82.7,2.7,2,2,1,74.2,1,Placed,Cisco,Systems Engineer,15.39
+CT2025IT090,Ananya Deshmukh,ananya.deshmukh090@campus.edu,Female,Information Technology,2021-2025,2025,7.7,82.0,0,81.9,87.7,80.6,3.4,3,2,0,80.7,1,Placed,Amazon,Data Engineer,23.98
+CT2026IT091,Rahul Das,rahul.das091@campus.edu,Male,Information Technology,2022-2026,2026,6.17,67.7,1,53.1,30.0,64.2,1.2,1,1,0,53.2,0,Not Placed,,,
+CT2026EC092,Siddharth Patel,siddharth.patel092@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.91,74.7,1,68.4,58.1,73.9,3.2,2,0,1,72.3,1,In Process,,,
+CT2025DS093,Vidya Reddy,vidya.reddy093@campus.edu,Male,Data Science & AI,2021-2025,2025,6.9,73.1,1,54.3,63.0,57.4,3.0,2,0,0,63.2,1,Not Placed,,,
+CT2025CS094,Vikram Joshi,vikram.joshi094@campus.edu,Female,Computer Science,2021-2025,2025,7.56,90.6,0,70.8,74.6,79.2,4.4,6,3,0,75.5,1,Placed,Deloitte,Consultant,9.77
+CT2026CS095,Nikhil Kumar,nikhil.kumar095@campus.edu,Male,Computer Science,2022-2026,2026,7.73,77.1,0,67.2,72.4,78.7,3.2,2,1,1,69.8,1,Placed,Deloitte,Consultant,9.56
+CT2026DS096,Tanvi Menon,tanvi.menon096@campus.edu,Male,Data Science & AI,2022-2026,2026,6.77,82.2,1,61.5,68.2,73.1,3.1,1,3,0,70.2,1,Not Placed,,,
+CT2026CS097,Rahul Banerjee,rahul.banerjee097@campus.edu,Female,Computer Science,2022-2026,2026,6.93,74.6,1,52.8,53.4,67.1,2.8,3,1,0,56.2,1,Not Placed,,,
+CT2026CS098,Aditya Sharma,aditya.sharma098@campus.edu,Male,Computer Science,2022-2026,2026,5.51,64.2,1,43.3,41.6,45.6,1.6,0,1,1,59.5,0,Not Placed,,,
+CT2025ME099,Ishaan Joshi,ishaan.joshi099@campus.edu,Female,Mechanical,2021-2025,2025,6.17,79.8,1,58.4,55.9,65.7,2.3,0,2,0,71.2,1,Not Placed,,,
+CT2026CS100,Aditi Mehta,aditi.mehta100@campus.edu,Male,Computer Science,2022-2026,2026,6.54,87.3,0,74.4,53.5,74.0,2.8,2,2,0,67.5,1,In Process,,,
+CT2025IT101,Devika Agarwal,devika.agarwal101@campus.edu,Male,Information Technology,2021-2025,2025,7.83,84.6,0,62.2,74.7,79.7,2.8,3,3,0,71.3,1,Placed,Infosys,Systems Engineer,5.7
+CT2025ME102,Varun Deshmukh,varun.deshmukh102@campus.edu,Male,Mechanical,2021-2025,2025,7.14,79.8,1,51.9,62.5,63.4,2.6,3,1,0,74.2,1,Not Placed,,,
+CT2026CS103,Pooja Menon,pooja.menon103@campus.edu,Male,Computer Science,2022-2026,2026,7.9,84.7,0,78.9,76.2,58.6,3.6,2,3,1,93.8,1,In Process,,,
+CT2026DS104,Varun Deshmukh,varun.deshmukh104@campus.edu,Male,Data Science & AI,2022-2026,2026,7.02,83.9,0,71.4,54.1,69.1,2.8,1,2,0,67.2,1,In Process,,,
+CT2026ME105,Isha Kulkarni,isha.kulkarni105@campus.edu,Male,Mechanical,2022-2026,2026,5.13,67.7,1,44.8,30.0,51.6,1.0,0,0,0,51.1,0,Not Placed,,,
+CT2025EC106,Dhruv Malhotra,dhruv.malhotra106@campus.edu,Female,Electronics & Comm,2021-2025,2025,8.37,85.4,0,76.1,71.6,84.0,3.5,2,1,1,72.7,1,Placed,Google,Cloud Associate,30.12
+CT2026ME107,Vikram Joshi,vikram.joshi107@campus.edu,Female,Mechanical,2022-2026,2026,6.87,75.5,0,47.1,65.1,77.2,2.7,1,1,1,67.6,1,In Process,,,
+CT2026DS108,Aryan Deshmukh,aryan.deshmukh108@campus.edu,Female,Data Science & AI,2022-2026,2026,9.01,88.4,0,83.5,89.6,86.9,4.4,4,4,2,88.3,1,Placed,Cognizant,GenC Next,4.63
+CT2025ME109,Meera Pillai,meera.pillai109@campus.edu,Male,Mechanical,2021-2025,2025,7.83,78.0,0,80.8,71.5,80.4,2.8,3,1,1,77.5,1,Placed,Oracle,Database Developer,14.04
+CT2025EC110,Meera Saxena,meera.saxena110@campus.edu,Female,Electronics & Comm,2021-2025,2025,5.91,77.5,2,46.9,54.5,61.8,2.4,1,1,0,69.3,0,Not Placed,,,
+CT2025CS111,Varun Nair,varun.nair111@campus.edu,Male,Computer Science,2021-2025,2025,8.23,93.4,0,81.8,75.0,83.5,3.6,3,2,0,84.1,1,Placed,Amazon,Operations,22.77
+CT2025IT112,Akash Verma,akash.verma112@campus.edu,Female,Information Technology,2021-2025,2025,8.88,84.7,0,78.7,90.2,93.6,3.9,3,4,2,75.9,1,Placed,Microsoft,Software Dev Engineer,26.04
+CT2025DS113,Zoya Kumar,zoya.kumar113@campus.edu,Male,Data Science & AI,2021-2025,2025,7.03,78.9,0,61.2,62.7,62.2,2.6,3,2,0,63.9,1,Not Placed,,,
+CT2025IT114,Isha Mehta,isha.mehta114@campus.edu,Female,Information Technology,2021-2025,2025,7.61,85.6,0,64.7,59.3,63.2,2.8,2,1,0,63.8,1,Placed,Wipro,Project Engineer,3.97
+CT2025IT115,Priya Patel,priya.patel115@campus.edu,Male,Information Technology,2021-2025,2025,6.79,81.1,0,63.0,72.6,66.8,2.9,2,3,0,69.4,1,Placed,Accenture,Advanced Analyst,5.65
+CT2025DS116,Rohan Sharma,rohan.sharma116@campus.edu,Female,Data Science & AI,2021-2025,2025,5.64,78.8,1,47.6,42.6,56.0,2.6,2,3,1,59.1,0,Not Placed,,,
+CT2025CS117,Zoya Rao,zoya.rao117@campus.edu,Male,Computer Science,2021-2025,2025,6.77,83.0,0,62.7,54.5,70.1,2.4,2,2,0,65.1,1,Placed,Infosys,Systems Engineer,4.12
+CT2025ME118,Priya Bhat,priya.bhat118@campus.edu,Female,Mechanical,2021-2025,2025,7.11,66.0,1,59.2,56.1,78.3,2.4,2,2,0,55.0,0,Not Placed,,,
+CT2025CS119,Tanvi Singh,tanvi.singh119@campus.edu,Female,Computer Science,2021-2025,2025,7.53,76.9,0,67.1,56.9,74.5,3.2,4,2,0,72.9,1,Not Placed,,,
+CT2025ME120,Pooja Mehta,pooja.mehta120@campus.edu,Male,Mechanical,2021-2025,2025,8.8,84.5,0,78.9,69.6,75.9,4.0,3,3,2,77.0,1,Placed,Oracle,Database Developer,12.76
+CT2025DS121,Aryan Bhat,aryan.bhat121@campus.edu,Female,Data Science & AI,2021-2025,2025,6.54,74.7,0,52.7,64.4,63.3,2.8,1,0,1,67.8,1,Not Placed,,,
+CT2025ME122,Zoya Banerjee,zoya.banerjee122@campus.edu,Female,Mechanical,2021-2025,2025,7.42,76.2,0,85.4,76.1,75.8,2.9,2,1,0,71.6,1,Placed,Oracle,Database Developer,12.61
+CT2026IT123,Sakshi Reddy,sakshi.reddy123@campus.edu,Female,Information Technology,2022-2026,2026,5.85,71.7,3,61.8,40.1,39.0,1.9,2,2,1,60.2,0,Not Placed,,,
+CT2025DS124,Akash Iyer,akash.iyer124@campus.edu,Male,Data Science & AI,2021-2025,2025,7.71,80.8,0,71.9,62.6,70.8,3.5,3,2,0,73.8,1,Placed,Cognizant,Programmer Analyst,6.21
+CT2025CS125,Vikram Malhotra,vikram.malhotra125@campus.edu,Male,Computer Science,2021-2025,2025,7.67,83.5,0,70.1,62.6,77.1,4.1,3,2,1,78.4,1,Placed,Oracle,Database Developer,12.67
+CT2026IT126,Nikhil Kapoor,nikhil.kapoor126@campus.edu,Female,Information Technology,2022-2026,2026,7.88,72.9,0,70.3,55.4,77.6,2.9,3,1,1,79.3,1,In Process,,,
+CT2025DS127,Pranav Mehta,pranav.mehta127@campus.edu,Female,Data Science & AI,2021-2025,2025,7.25,79.5,0,73.4,72.4,65.9,3.8,3,2,1,70.6,1,Placed,Oracle,Database Developer,14.23
+CT2025EC128,Nikhil Iyer,nikhil.iyer128@campus.edu,Female,Electronics & Comm,2021-2025,2025,7.69,86.5,0,63.3,71.7,70.2,3.3,1,2,1,68.7,1,Placed,Microsoft,Software Dev Engineer,20.62
+CT2025CS129,Vidya Agarwal,vidya.agarwal129@campus.edu,Female,Computer Science,2021-2025,2025,7.11,76.3,0,57.9,52.0,53.1,2.7,2,1,0,65.3,1,Not Placed,,,
+CT2025DS130,Gaurav Saxena,gaurav.saxena130@campus.edu,Female,Data Science & AI,2021-2025,2025,6.74,78.8,1,68.4,48.6,68.1,3.1,1,0,0,52.3,1,Not Placed,,,
+CT2026EC131,Sakshi Gupta,sakshi.gupta131@campus.edu,Male,Electronics & Comm,2022-2026,2026,9.53,95.3,0,99.0,80.6,81.1,4.0,5,2,2,88.2,1,In Process,,,
+CT2026EC132,Yash Singh,yash.singh132@campus.edu,Male,Electronics & Comm,2022-2026,2026,6.41,78.9,1,45.9,51.3,69.3,2.0,4,0,0,69.4,1,Not Placed,,,
+CT2026IT133,Aryan Kapoor,aryan.kapoor133@campus.edu,Male,Information Technology,2022-2026,2026,6.46,82.1,0,69.5,54.1,65.3,2.1,3,2,1,77.5,1,In Process,,,
+CT2026ME134,Neha Patel,neha.patel134@campus.edu,Female,Mechanical,2022-2026,2026,7.77,78.6,0,71.2,55.1,79.6,2.6,4,2,2,71.3,1,Placed,Accenture,Associate Software Engineer,6.39
+CT2026DS135,Aditi Kulkarni,aditi.kulkarni135@campus.edu,Male,Data Science & AI,2022-2026,2026,7.48,85.0,0,66.9,79.9,83.2,3.7,3,4,0,74.4,1,In Process,,,
+CT2025CS136,Chetan Saxena,chetan.saxena136@campus.edu,Female,Computer Science,2021-2025,2025,6.2,77.7,2,54.7,46.3,54.9,1.8,2,2,0,51.9,0,Not Placed,,,
+CT2025DS137,Aarav Patel,aarav.patel137@campus.edu,Male,Data Science & AI,2021-2025,2025,8.06,83.7,0,75.8,80.3,78.0,3.6,3,3,0,64.0,1,Placed,Oracle,Cloud Analyst,11.56
+CT2025EC138,Kavya Kulkarni,kavya.kulkarni138@campus.edu,Female,Electronics & Comm,2021-2025,2025,5.63,70.6,2,43.1,47.7,52.7,2.4,2,1,0,66.4,0,Not Placed,,,
+CT2025ME139,Dhruv Deshmukh,dhruv.deshmukh139@campus.edu,Male,Mechanical,2021-2025,2025,8.14,85.8,0,75.2,77.7,55.7,3.6,3,2,0,87.7,1,Placed,Deloitte,Technology Analyst,9.33
+CT2025ME140,Utkarsh Banerjee,utkarsh.banerjee140@campus.edu,Male,Mechanical,2021-2025,2025,8.21,85.5,0,80.7,74.6,84.8,3.3,3,4,0,79.1,1,Placed,Amazon,Data Engineer,23.98
+CT2025CS141,Chetan Pillai,chetan.pillai141@campus.edu,Female,Computer Science,2021-2025,2025,7.19,68.1,0,82.8,73.3,68.0,3.2,1,3,0,82.5,0,Not Placed,,,
+CT2026IT142,Siddharth Saxena,siddharth.saxena142@campus.edu,Male,Information Technology,2022-2026,2026,9.02,87.6,0,65.6,81.8,80.7,3.6,3,4,1,84.1,1,In Process,,,
+CT2025CS143,Ananya Nair,ananya.nair143@campus.edu,Female,Computer Science,2021-2025,2025,8.34,89.3,0,84.5,81.3,70.5,4.3,4,3,1,77.1,1,Placed,Zomato,Product Operations,11.27
+CT2025IT144,Aryan Kapoor,aryan.kapoor144@campus.edu,Male,Information Technology,2021-2025,2025,8.05,72.6,0,60.3,75.0,85.3,2.8,1,4,0,80.2,1,Placed,Wipro,Turbo Dev,4.58
+CT2025DS145,Varun Chopra,varun.chopra145@campus.edu,Female,Data Science & AI,2021-2025,2025,8.69,75.8,0,73.9,77.0,75.8,3.5,2,2,0,69.9,1,Placed,Zomato,Backend Developer,12.73
+CT2025CS146,Neha Deshmukh,neha.deshmukh146@campus.edu,Male,Computer Science,2021-2025,2025,6.39,86.7,1,69.5,69.1,55.7,2.7,1,1,0,60.8,1,Not Placed,,,
+CT2025DS147,Aryan Patel,aryan.patel147@campus.edu,Female,Data Science & AI,2021-2025,2025,7.93,83.2,0,87.0,70.2,74.9,3.9,3,2,1,79.8,1,Placed,Microsoft,Software Dev Engineer,21.14
+CT2025DS148,Ayush Gupta,ayush.gupta148@campus.edu,Female,Data Science & AI,2021-2025,2025,7.81,84.5,0,82.4,79.1,78.9,3.6,3,2,0,78.9,1,Placed,Oracle,Database Developer,14.4
+CT2025EC149,Ayush Pillai,ayush.pillai149@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.78,82.8,0,85.6,65.8,66.2,3.1,3,3,0,64.5,1,Placed,Accenture,Associate Software Engineer,5.97
+CT2026DS150,Deepak Chopra,deepak.chopra150@campus.edu,Female,Data Science & AI,2022-2026,2026,8.09,85.8,0,66.2,86.7,75.5,3.8,3,3,0,78.3,1,In Process,,,
+CT2025DS151,Devika Patel,devika.patel151@campus.edu,Male,Data Science & AI,2021-2025,2025,7.48,78.8,0,77.8,68.8,71.2,2.8,1,2,0,58.2,1,Placed,Deloitte,Consultant,9.84
+CT2025ME152,Nikhil Iyer,nikhil.iyer152@campus.edu,Female,Mechanical,2021-2025,2025,7.98,78.1,1,81.3,85.2,77.9,3.5,3,2,2,69.9,1,Placed,Google,Software Engineer,29.92
+CT2026DS153,Vikram Mehta,vikram.mehta153@campus.edu,Female,Data Science & AI,2022-2026,2026,8.31,83.9,0,71.1,71.5,72.7,3.1,3,2,0,72.8,1,In Process,,,
+CT2025ME154,Saanvi Pillai,saanvi.pillai154@campus.edu,Male,Mechanical,2021-2025,2025,5.6,68.9,3,42.8,32.2,46.0,1.6,0,1,0,52.2,0,Not Placed,,,
+CT2025ME155,Gaurav Mehta,gaurav.mehta155@campus.edu,Male,Mechanical,2021-2025,2025,6.88,76.8,2,45.5,59.8,71.3,2.0,2,1,0,66.3,0,Not Placed,,,
+CT2025IT156,Varun Deshmukh,varun.deshmukh156@campus.edu,Female,Information Technology,2021-2025,2025,7.13,85.4,0,57.6,58.9,67.2,3.2,3,1,0,68.7,1,Placed,TCS,Digital Innovator,5.89
+CT2025IT157,Zoya Mehta,zoya.mehta157@campus.edu,Male,Information Technology,2021-2025,2025,6.45,70.4,2,51.9,45.5,54.5,2.0,1,1,1,57.9,0,Not Placed,,,
+CT2025CS158,Yash Chopra,yash.chopra158@campus.edu,Female,Computer Science,2021-2025,2025,5.53,70.6,2,51.6,30.0,56.0,2.0,2,1,0,62.6,0,Not Placed,,,
+CT2025EC159,Rohan Deshmukh,rohan.deshmukh159@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.77,79.1,0,78.6,82.8,69.9,3.0,3,2,0,79.4,1,Placed,Cisco,Network Engineer,13.7
+CT2026EC160,Priya Rao,priya.rao160@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.69,88.0,0,61.4,66.6,66.3,3.2,4,2,1,58.1,1,Placed,TCS,Ninja Developer,4.71
+CT2025CS161,Rhea Menon,rhea.menon161@campus.edu,Male,Computer Science,2021-2025,2025,7.33,86.5,1,70.2,61.9,86.4,3.2,3,1,2,73.5,1,Placed,Oracle,Cloud Analyst,11.95
+CT2025DS162,Rohan Das,rohan.das162@campus.edu,Male,Data Science & AI,2021-2025,2025,9.94,99.0,0,93.2,100.0,92.8,5.0,5,3,2,91.2,1,Placed,Amazon,Operations,23.38
+CT2026CS163,Sahil Mehta,sahil.mehta163@campus.edu,Female,Computer Science,2022-2026,2026,7.28,79.2,0,54.3,54.8,69.7,2.9,2,1,0,72.8,1,In Process,,,
+CT2025DS164,Vikram Nair,vikram.nair164@campus.edu,Male,Data Science & AI,2021-2025,2025,7.78,82.0,0,60.5,74.8,86.6,4.1,3,3,1,73.9,1,Placed,Oracle,Cloud Analyst,15.13
+CT2025ME165,Chetan Rao,chetan.rao165@campus.edu,Male,Mechanical,2021-2025,2025,8.97,95.1,1,85.9,93.3,85.9,3.8,4,2,2,78.4,1,Placed,Amazon,Operations,21.21
+CT2025ME166,Aditya Das,aditya.das166@campus.edu,Male,Mechanical,2021-2025,2025,8.34,98.0,1,88.6,97.1,86.1,4.6,4,2,1,92.3,1,Placed,Zomato,Product Operations,12.97
+CT2026DS167,Rahul Joshi,rahul.joshi167@campus.edu,Female,Data Science & AI,2022-2026,2026,7.4,86.0,1,62.2,75.3,58.2,3.6,2,2,0,59.3,1,In Process,,,
+CT2025DS168,Zoya Pillai,zoya.pillai168@campus.edu,Male,Data Science & AI,2021-2025,2025,7.28,85.4,0,76.0,63.9,66.9,3.1,3,3,0,70.3,1,Placed,Cognizant,GenC Next,4.41
+CT2025CS169,Deepak Nair,deepak.nair169@campus.edu,Male,Computer Science,2021-2025,2025,7.81,82.2,0,76.9,75.5,80.1,3.6,2,2,0,80.4,1,Placed,Cisco,Systems Engineer,16.36
+CT2026CS170,Varun Nair,varun.nair170@campus.edu,Female,Computer Science,2022-2026,2026,6.53,74.8,2,62.4,71.4,59.5,2.5,2,2,0,67.7,0,Not Placed,,,
+CT2025ME171,Kunal Menon,kunal.menon171@campus.edu,Male,Mechanical,2021-2025,2025,7.38,84.9,1,51.3,64.0,63.9,3.0,2,3,0,61.6,1,Not Placed,,,
+CT2025DS172,Priya Banerjee,priya.banerjee172@campus.edu,Female,Data Science & AI,2021-2025,2025,6.56,69.8,2,54.7,35.8,50.0,2.6,1,2,0,60.5,0,Not Placed,,,
+CT2026EC173,Dhruv Deshmukh,dhruv.deshmukh173@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.25,76.6,2,53.8,62.8,63.0,2.6,2,1,0,69.1,0,Not Placed,,,
+CT2025ME174,Vikram Saxena,vikram.saxena174@campus.edu,Male,Mechanical,2021-2025,2025,7.57,91.0,0,58.6,74.6,79.2,2.7,3,2,1,72.6,1,Placed,Google,Software Engineer,28.38
+CT2025DS175,Sneha Reddy,sneha.reddy175@campus.edu,Female,Data Science & AI,2021-2025,2025,5.76,71.3,1,59.4,48.4,57.8,2.3,0,1,1,65.1,0,Not Placed,,,
+CT2025DS176,Harsh Deshmukh,harsh.deshmukh176@campus.edu,Male,Data Science & AI,2021-2025,2025,7.71,89.5,0,79.6,80.6,72.3,3.3,4,1,2,74.9,1,Placed,Oracle,Database Developer,13.68
+CT2026CS177,Gaurav Kulkarni,gaurav.kulkarni177@campus.edu,Female,Computer Science,2022-2026,2026,7.59,86.0,0,77.5,73.2,67.2,3.6,4,2,2,86.2,1,In Process,,,
+CT2025DS178,Neha Verma,neha.verma178@campus.edu,Male,Data Science & AI,2021-2025,2025,7.49,84.5,0,74.8,67.8,75.9,3.3,2,2,0,65.5,1,Not Placed,,,
+CT2025ME179,Devika Das,devika.das179@campus.edu,Male,Mechanical,2021-2025,2025,7.68,80.7,0,65.8,69.8,78.0,2.7,2,1,0,56.1,1,Placed,Wipro,Turbo Dev,5.68
+CT2026EC180,Yash Malhotra,yash.malhotra180@campus.edu,Female,Electronics & Comm,2022-2026,2026,5.12,72.3,1,44.7,39.5,63.3,2.0,1,0,1,62.5,0,Not Placed,,,
+CT2025CS181,Devika Kumar,devika.kumar181@campus.edu,Male,Computer Science,2021-2025,2025,8.64,94.6,0,85.8,76.6,70.5,3.7,4,4,1,91.1,1,Placed,Zomato,Product Operations,14.77
+CT2025ME182,Rahul Saxena,rahul.saxena182@campus.edu,Male,Mechanical,2021-2025,2025,6.61,68.3,2,55.3,43.0,65.3,1.9,0,1,0,58.8,0,Not Placed,,,
+CT2026EC183,Neha Bhat,neha.bhat183@campus.edu,Female,Electronics & Comm,2022-2026,2026,7.44,83.8,0,69.3,69.3,69.7,2.5,3,1,0,64.9,1,Placed,Zomato,Product Operations,12.08
+CT2026DS184,Isha Gupta,isha.gupta184@campus.edu,Female,Data Science & AI,2022-2026,2026,6.52,73.4,2,49.5,49.7,68.5,2.4,1,2,0,58.5,0,Not Placed,,,
+CT2025CS185,Vikram Das,vikram.das185@campus.edu,Male,Computer Science,2021-2025,2025,7.79,90.7,0,80.8,79.4,67.6,3.6,3,1,0,77.0,1,Placed,Cisco,Network Engineer,15.4
+CT2025DS186,Utkarsh Singh,utkarsh.singh186@campus.edu,Female,Data Science & AI,2021-2025,2025,6.75,72.2,0,73.8,53.8,72.7,2.8,1,1,0,71.5,1,Placed,Accenture,Advanced Analyst,5.85
+CT2025CS187,Aarav Agarwal,aarav.agarwal187@campus.edu,Male,Computer Science,2021-2025,2025,7.63,88.1,0,76.6,57.9,68.2,3.0,3,2,0,65.5,1,Placed,Cognizant,Programmer Analyst,6.62
+CT2025DS188,Saanvi Iyer,saanvi.iyer188@campus.edu,Female,Data Science & AI,2021-2025,2025,6.64,82.9,1,65.0,48.6,62.3,2.9,3,1,1,49.8,1,Not Placed,,,
+CT2025DS189,Vidya Mehta,vidya.mehta189@campus.edu,Female,Data Science & AI,2021-2025,2025,7.76,85.4,0,85.6,66.6,64.8,3.4,2,3,0,70.6,1,Placed,Oracle,Database Developer,14.64
+CT2026CS190,Nikhil Singh,nikhil.singh190@campus.edu,Female,Computer Science,2022-2026,2026,8.36,86.1,0,76.3,89.6,73.3,3.6,4,2,2,72.3,1,In Process,,,
+CT2025EC191,Harsh Agarwal,harsh.agarwal191@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.1,79.0,0,62.1,57.9,63.0,2.7,1,2,0,64.8,1,Not Placed,,,
+CT2025CS192,Ayush Reddy,ayush.reddy192@campus.edu,Female,Computer Science,2021-2025,2025,7.52,90.4,0,72.7,63.2,73.3,3.1,3,2,1,79.2,1,Placed,Microsoft,Software Dev Engineer,23.22
+CT2026IT193,Aryan Mehta,aryan.mehta193@campus.edu,Male,Information Technology,2022-2026,2026,7.15,78.2,0,69.2,55.0,80.4,2.6,3,1,0,74.4,1,In Process,,,
+CT2026ME194,Pooja Gupta,pooja.gupta194@campus.edu,Male,Mechanical,2022-2026,2026,5.69,68.0,1,50.6,30.0,35.0,1.3,1,0,0,49.9,0,Not Placed,,,
+CT2025IT195,Sahil Banerjee,sahil.banerjee195@campus.edu,Male,Information Technology,2021-2025,2025,7.26,75.7,1,81.0,78.1,75.4,2.9,2,2,2,65.8,1,Placed,Zomato,Product Operations,13.48
+CT2026IT196,Nikhil Saxena,nikhil.saxena196@campus.edu,Male,Information Technology,2022-2026,2026,6.73,76.6,0,61.5,56.7,71.6,2.6,1,2,0,59.0,1,In Process,,,
+CT2025DS197,Devika Rao,devika.rao197@campus.edu,Male,Data Science & AI,2021-2025,2025,8.74,79.2,0,80.3,80.7,85.2,3.4,6,3,2,81.1,1,Placed,Google,Software Engineer,22.52
+CT2025ME198,Ayush Nair,ayush.nair198@campus.edu,Female,Mechanical,2021-2025,2025,9.95,94.9,0,99.0,100.0,88.5,4.9,6,4,2,98.0,1,Placed,Microsoft,Support Engineer,27.66
+CT2026IT199,Deepak Agarwal,deepak.agarwal199@campus.edu,Other,Information Technology,2022-2026,2026,5.59,74.9,2,54.0,41.8,50.3,1.4,1,1,0,65.7,0,Not Placed,,,
+CT2025EC200,Vidya Kapoor,vidya.kapoor200@campus.edu,Male,Electronics & Comm,2021-2025,2025,9.17,97.6,0,88.4,90.7,94.1,4.1,3,3,2,82.9,1,Placed,Amazon,Data Engineer,24.09
+CT2025IT201,Saanvi Verma,saanvi.verma201@campus.edu,Female,Information Technology,2021-2025,2025,9.44,89.2,0,81.6,90.0,89.5,4.4,5,4,1,90.1,1,Placed,Oracle,Cloud Analyst,12.48
+CT2025IT202,Kavya Kumar,kavya.kumar202@campus.edu,Female,Information Technology,2021-2025,2025,8.85,86.6,1,73.7,79.8,73.2,4.6,4,3,1,69.4,1,Placed,Cisco,Systems Engineer,14.3
+CT2026IT203,Vidya Kapoor,vidya.kapoor203@campus.edu,Female,Information Technology,2022-2026,2026,9.23,89.9,0,72.6,75.2,74.1,3.0,3,3,1,69.3,1,Placed,Cognizant,Programmer Analyst,6.14
+CT2025IT204,Dhruv Sharma,dhruv.sharma204@campus.edu,Male,Information Technology,2021-2025,2025,7.78,82.7,0,66.7,69.0,60.4,3.8,2,1,0,70.4,1,Placed,Cognizant,GenC Next,5.85
+CT2025ME205,Aarav Sharma,aarav.sharma205@campus.edu,Male,Mechanical,2021-2025,2025,8.62,77.6,0,79.8,86.9,77.1,3.8,4,3,3,76.2,1,Placed,Deloitte,Consultant,10.32
+CT2026CS206,Varun Mehta,varun.mehta206@campus.edu,Male,Computer Science,2022-2026,2026,6.36,77.7,1,45.0,52.8,63.4,2.4,2,1,0,72.6,1,Not Placed,,,
+CT2025DS207,Ishaan Deshmukh,ishaan.deshmukh207@campus.edu,Female,Data Science & AI,2021-2025,2025,6.84,73.1,3,50.9,54.3,51.9,2.0,1,2,0,65.3,0,Not Placed,,,
+CT2025ME208,Aarav Saxena,aarav.saxena208@campus.edu,Male,Mechanical,2021-2025,2025,6.36,66.3,2,48.0,44.2,58.8,2.0,1,1,0,60.8,0,Not Placed,,,
+CT2026ME209,Ishaan Nair,ishaan.nair209@campus.edu,Female,Mechanical,2022-2026,2026,8.36,86.9,0,79.4,85.6,81.9,4.4,3,3,2,75.2,1,Placed,Microsoft,Support Engineer,27.19
+CT2025CS210,Pooja Sharma,pooja.sharma210@campus.edu,Female,Computer Science,2021-2025,2025,6.99,75.5,1,56.1,63.0,57.8,2.8,1,2,0,79.3,1,Not Placed,,,
+CT2026DS211,Vidya Joshi,vidya.joshi211@campus.edu,Male,Data Science & AI,2022-2026,2026,7.79,77.0,0,73.7,82.5,73.8,3.5,4,2,1,72.8,1,In Process,,,
+CT2025EC212,Sahil Gupta,sahil.gupta212@campus.edu,Female,Electronics & Comm,2021-2025,2025,8.0,85.5,0,70.8,69.7,65.3,3.8,3,2,1,69.0,1,Placed,Cisco,Systems Engineer,12.15
+CT2025DS213,Priya Banerjee,priya.banerjee213@campus.edu,Female,Data Science & AI,2021-2025,2025,7.11,84.8,0,73.4,72.9,71.1,3.0,1,3,1,73.8,1,Placed,Google,Cloud Associate,29.98
+CT2025CS214,Rhea Saxena,rhea.saxena214@campus.edu,Female,Computer Science,2021-2025,2025,8.29,82.5,0,88.2,91.7,98.0,3.8,4,2,1,84.3,1,Placed,Microsoft,Support Engineer,22.88
+CT2025IT215,Sahil Singh,sahil.singh215@campus.edu,Female,Information Technology,2021-2025,2025,5.83,79.0,2,50.9,47.6,66.1,2.1,1,1,0,59.7,0,Not Placed,,,
+CT2025DS216,Saanvi Rao,saanvi.rao216@campus.edu,Female,Data Science & AI,2021-2025,2025,7.51,81.8,0,59.3,72.3,72.1,3.2,2,1,1,72.0,1,Not Placed,,,
+CT2025ME217,Rhea Iyer,rhea.iyer217@campus.edu,Male,Mechanical,2021-2025,2025,7.79,78.8,0,50.6,50.4,69.6,2.9,3,2,0,76.7,1,Placed,Wipro,Turbo Dev,4.82
+CT2025CS218,Kavya Agarwal,kavya.agarwal218@campus.edu,Female,Computer Science,2021-2025,2025,5.99,69.6,2,54.6,53.4,68.0,3.1,0,2,0,60.0,0,Not Placed,,,
+CT2025ME219,Pranav Singh,pranav.singh219@campus.edu,Male,Mechanical,2021-2025,2025,7.97,74.9,0,75.1,63.6,70.7,3.3,3,1,1,73.7,1,Not Placed,,,
+CT2025EC220,Harsh Kumar,harsh.kumar220@campus.edu,Male,Electronics & Comm,2021-2025,2025,8.3,86.8,1,85.7,87.2,79.2,3.5,2,2,3,74.8,1,Placed,Cisco,Network Engineer,13.63
+CT2025IT221,Vidya Iyer,vidya.iyer221@campus.edu,Female,Information Technology,2021-2025,2025,7.3,81.9,0,74.6,83.6,65.7,3.5,4,2,2,72.6,1,Placed,Deloitte,Technology Analyst,9.03
+CT2026CS222,Saanvi Malhotra,saanvi.malhotra222@campus.edu,Male,Computer Science,2022-2026,2026,7.92,80.2,0,67.8,62.5,79.4,3.8,3,2,0,71.0,1,In Process,,,
+CT2025DS223,Aditya Kumar,aditya.kumar223@campus.edu,Female,Data Science & AI,2021-2025,2025,7.16,71.4,0,79.7,70.8,75.2,3.3,1,2,2,76.2,1,Placed,Cisco,Network Engineer,15.95
+CT2025ME224,Bhavya Reddy,bhavya.reddy224@campus.edu,Female,Mechanical,2021-2025,2025,7.96,82.7,0,74.8,85.8,78.1,3.5,3,4,0,72.8,1,Placed,Google,Cloud Associate,31.67
+CT2025DS225,Chetan Chopra,chetan.chopra225@campus.edu,Male,Data Science & AI,2021-2025,2025,7.52,74.7,0,66.9,60.0,73.2,2.9,1,2,0,74.8,1,Placed,TCS,Digital Innovator,5.07
+CT2026ME226,Dhruv Bhat,dhruv.bhat226@campus.edu,Other,Mechanical,2022-2026,2026,5.93,73.1,0,59.6,45.5,64.3,2.8,2,3,0,67.5,0,Not Placed,,,
+CT2025CS227,Dhruv Bhat,dhruv.bhat227@campus.edu,Male,Computer Science,2021-2025,2025,7.77,85.0,0,78.1,72.5,74.4,3.5,4,3,0,76.2,1,Placed,Cisco,Network Engineer,14.19
+CT2025EC228,Ananya Saxena,ananya.saxena228@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.82,84.1,1,58.0,57.0,72.1,2.1,2,1,0,70.6,1,Not Placed,,,
+CT2025IT229,Sahil Singh,sahil.singh229@campus.edu,Male,Information Technology,2021-2025,2025,9.13,89.9,0,88.0,87.4,92.6,3.8,3,4,1,81.9,1,Placed,Google,Software Engineer,26.5
+CT2026CS230,Isha Chopra,isha.chopra230@campus.edu,Female,Computer Science,2022-2026,2026,6.32,74.9,3,63.6,51.9,57.5,2.0,1,0,0,63.1,0,Not Placed,,,
+CT2025DS231,Tanvi Das,tanvi.das231@campus.edu,Female,Data Science & AI,2021-2025,2025,6.88,79.1,0,69.5,62.2,67.1,3.0,2,1,0,56.7,1,Placed,Accenture,Advanced Analyst,5.2
+CT2026IT232,Nikhil Menon,nikhil.menon232@campus.edu,Female,Information Technology,2022-2026,2026,6.6,75.4,1,52.3,42.9,64.0,2.5,2,1,0,66.9,1,Not Placed,,,
+CT2025DS233,Devika Pillai,devika.pillai233@campus.edu,Male,Data Science & AI,2021-2025,2025,6.04,69.7,1,50.2,43.1,50.0,2.0,0,2,0,51.5,0,Not Placed,,,
+CT2025DS234,Gaurav Joshi,gaurav.joshi234@campus.edu,Female,Data Science & AI,2021-2025,2025,9.14,96.5,0,86.8,96.4,76.7,4.9,4,3,3,89.4,1,Placed,Google,Cloud Associate,31.64
+CT2025DS235,Tanvi Kulkarni,tanvi.kulkarni235@campus.edu,Female,Data Science & AI,2021-2025,2025,9.95,99.0,0,99.0,100.0,94.9,5.0,7,5,1,94.5,1,Placed,Microsoft,Support Engineer,20.26
+CT2025EC236,Siddharth Pillai,siddharth.pillai236@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.92,72.6,1,44.9,51.7,63.4,2.2,3,1,0,63.5,1,Not Placed,,,
+CT2026CS237,Sakshi Banerjee,sakshi.banerjee237@campus.edu,Male,Computer Science,2022-2026,2026,6.47,77.6,0,55.7,59.1,56.8,2.2,0,0,0,62.4,1,Not Placed,,,
+CT2025IT238,Ananya Singh,ananya.singh238@campus.edu,Male,Information Technology,2021-2025,2025,7.0,79.8,2,56.0,67.4,59.1,2.0,2,1,0,69.5,0,Not Placed,,,
+CT2026ME239,Akash Kapoor,akash.kapoor239@campus.edu,Male,Mechanical,2022-2026,2026,6.46,72.7,2,58.8,45.5,39.3,1.8,2,0,0,58.7,0,Not Placed,,,
+CT2025ME240,Pooja Saxena,pooja.saxena240@campus.edu,Male,Mechanical,2021-2025,2025,7.7,91.5,0,78.9,81.2,77.8,3.0,2,3,2,77.5,1,Placed,Deloitte,Technology Analyst,7.97
+CT2026DS241,Meera Kapoor,meera.kapoor241@campus.edu,Male,Data Science & AI,2022-2026,2026,8.24,82.3,0,84.1,64.1,64.0,3.7,3,2,0,80.3,1,In Process,,,
+CT2025DS242,Yash Kapoor,yash.kapoor242@campus.edu,Male,Data Science & AI,2021-2025,2025,8.69,88.6,0,76.1,86.3,78.8,4.1,2,3,2,74.1,1,Placed,Google,Cloud Associate,27.16
+CT2025EC243,Tanvi Joshi,tanvi.joshi243@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.78,79.9,2,59.2,61.5,54.3,2.4,1,0,0,61.2,0,Not Placed,,,
+CT2026CS244,Rohan Nair,rohan.nair244@campus.edu,Female,Computer Science,2022-2026,2026,7.7,82.2,0,71.0,82.1,68.6,3.1,2,3,1,61.9,1,Placed,Oracle,Cloud Analyst,13.74
+CT2026DS245,Aryan Verma,aryan.verma245@campus.edu,Male,Data Science & AI,2022-2026,2026,8.79,97.6,0,79.0,82.1,76.3,4.0,5,2,2,73.5,1,Placed,Amazon,Data Engineer,21.65
+CT2025DS246,Devika Kapoor,devika.kapoor246@campus.edu,Male,Data Science & AI,2021-2025,2025,8.01,80.6,0,63.7,57.5,77.9,3.3,2,2,1,60.4,1,Placed,Infosys,Specialist Programmer,4.15
+CT2025IT247,Nikhil Agarwal,nikhil.agarwal247@campus.edu,Female,Information Technology,2021-2025,2025,7.72,86.9,0,73.8,70.6,67.1,3.2,3,1,1,74.4,1,Placed,Google,Software Engineer,26.77
+CT2025IT248,Sakshi Sharma,sakshi.sharma248@campus.edu,Male,Information Technology,2021-2025,2025,6.95,84.5,0,61.7,68.7,67.6,2.8,2,1,0,71.8,1,Not Placed,,,
+CT2025DS249,Rhea Patel,rhea.patel249@campus.edu,Female,Data Science & AI,2021-2025,2025,7.05,79.0,0,69.0,65.1,66.4,3.0,2,0,0,70.2,1,Not Placed,,,
+CT2025IT250,Dhruv Patel,dhruv.patel250@campus.edu,Male,Information Technology,2021-2025,2025,8.47,88.1,0,86.7,78.2,82.1,3.7,2,3,2,78.4,1,Placed,Deloitte,Technology Analyst,10.72
+CT2026DS251,Bhavya Reddy,bhavya.reddy251@campus.edu,Male,Data Science & AI,2022-2026,2026,7.23,65.8,0,60.9,49.3,62.8,2.7,2,1,0,60.7,0,Not Placed,,,
+CT2025DS252,Devika Gupta,devika.gupta252@campus.edu,Male,Data Science & AI,2021-2025,2025,6.12,76.7,0,50.9,53.8,75.8,3.0,2,1,0,77.0,1,Not Placed,,,
+CT2026CS253,Nikhil Nair,nikhil.nair253@campus.edu,Male,Computer Science,2022-2026,2026,6.98,86.7,0,73.9,61.0,74.3,3.3,3,0,0,76.5,1,Placed,Google,Software Engineer,26.95
+CT2025DS254,Ayush Das,ayush.das254@campus.edu,Female,Data Science & AI,2021-2025,2025,7.47,78.4,0,69.1,66.3,78.5,3.5,3,2,0,75.3,1,Placed,Wipro,Turbo Dev,4.66
+CT2026DS255,Ayush Sharma,ayush.sharma255@campus.edu,Female,Data Science & AI,2022-2026,2026,8.69,89.6,0,97.7,91.6,87.1,4.0,4,2,1,75.3,1,In Process,,,
+CT2025DS256,Utkarsh Kulkarni,utkarsh.kulkarni256@campus.edu,Male,Data Science & AI,2021-2025,2025,7.76,75.3,0,72.0,72.6,76.2,3.9,2,3,1,70.1,1,Placed,Microsoft,Support Engineer,20.67
+CT2026IT257,Dhruv Banerjee,dhruv.banerjee257@campus.edu,Male,Information Technology,2022-2026,2026,7.97,86.8,0,78.0,71.7,76.6,3.5,3,3,1,77.3,1,In Process,,,
+CT2026EC258,Kavya Verma,kavya.verma258@campus.edu,Male,Electronics & Comm,2022-2026,2026,5.19,74.2,3,54.1,36.9,61.6,1.9,2,0,0,44.3,0,Not Placed,,,
+CT2025IT259,Devika Saxena,devika.saxena259@campus.edu,Male,Information Technology,2021-2025,2025,8.85,92.0,0,93.8,99.7,98.0,4.5,3,4,1,90.9,1,Placed,Amazon,SDE I,20.97
+CT2026EC260,Deepak Sharma,deepak.sharma260@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.53,79.5,0,70.3,69.7,70.6,2.4,3,2,1,67.3,1,Placed,Wipro,Project Engineer,5.04
+CT2025CS261,Yash Iyer,yash.iyer261@campus.edu,Male,Computer Science,2021-2025,2025,8.55,87.3,0,67.9,77.3,72.1,4.4,3,2,1,79.8,1,Placed,Deloitte,Technology Analyst,8.3
+CT2026CS262,Aarav Gupta,aarav.gupta262@campus.edu,Male,Computer Science,2022-2026,2026,5.79,67.6,1,58.9,42.4,60.9,2.1,0,1,1,65.0,0,Not Placed,,,
+CT2025DS263,Kavya Kulkarni,kavya.kulkarni263@campus.edu,Female,Data Science & AI,2021-2025,2025,8.11,87.1,0,84.5,87.0,64.1,3.8,3,3,2,94.3,1,Placed,Amazon,SDE I,19.43
+CT2026CS264,Ayush Singh,ayush.singh264@campus.edu,Female,Computer Science,2022-2026,2026,7.42,89.4,0,73.5,82.4,79.4,3.3,4,4,0,80.4,1,Placed,TCS,Ninja Developer,5.05
+CT2026EC265,Kavya Singh,kavya.singh265@campus.edu,Male,Electronics & Comm,2022-2026,2026,8.61,87.2,1,83.1,83.8,74.5,4.0,4,4,3,87.4,1,In Process,,,
+CT2025DS266,Vidya Bhat,vidya.bhat266@campus.edu,Female,Data Science & AI,2021-2025,2025,5.79,74.3,2,55.1,45.8,68.6,2.2,0,1,0,52.5,0,Not Placed,,,
+CT2025EC267,Varun Gupta,varun.gupta267@campus.edu,Male,Electronics & Comm,2021-2025,2025,9.26,95.6,1,99.0,94.0,81.1,4.7,3,3,3,88.5,1,Placed,Google,Software Engineer,30.97
+CT2025CS268,Utkarsh Mehta,utkarsh.mehta268@campus.edu,Female,Computer Science,2021-2025,2025,6.52,65.6,1,49.2,49.2,61.3,2.0,0,0,0,60.8,0,Not Placed,,,
+CT2026EC269,Rohan Saxena,rohan.saxena269@campus.edu,Female,Electronics & Comm,2022-2026,2026,6.19,79.8,0,72.3,55.0,70.3,2.0,2,1,0,62.8,1,Not Placed,,,
+CT2025IT270,Zoya Reddy,zoya.reddy270@campus.edu,Male,Information Technology,2021-2025,2025,7.67,90.3,0,78.0,77.4,73.7,3.2,3,2,1,86.8,1,Placed,Oracle,Cloud Analyst,15.82
+CT2025EC271,Deepak Patel,deepak.patel271@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.88,88.4,0,79.9,73.4,67.8,3.1,2,2,1,76.2,1,Placed,Google,Software Engineer,30.36
+CT2026CS272,Priya Rao,priya.rao272@campus.edu,Male,Computer Science,2022-2026,2026,6.19,80.6,1,55.4,37.8,51.8,2.4,1,1,0,64.3,1,Not Placed,,,
+CT2025ME273,Siddharth Reddy,siddharth.reddy273@campus.edu,Female,Mechanical,2021-2025,2025,8.39,86.9,0,59.4,72.7,86.1,3.2,3,2,0,86.7,1,Placed,TCS,Ninja Developer,4.47
+CT2025CS274,Kunal Patel,kunal.patel274@campus.edu,Male,Computer Science,2021-2025,2025,6.82,74.0,0,57.3,60.4,58.2,2.5,2,0,1,51.0,1,Placed,TCS,Ninja Developer,6.88
+CT2025EC275,Siddharth Verma,siddharth.verma275@campus.edu,Male,Electronics & Comm,2021-2025,2025,5.1,63.8,2,49.1,42.6,56.9,1.6,0,1,0,56.5,0,Not Placed,,,
+CT2026IT276,Meera Chopra,meera.chopra276@campus.edu,Male,Information Technology,2022-2026,2026,7.68,76.0,0,60.3,48.8,83.1,2.5,2,1,0,74.2,1,In Process,,,
+CT2025EC277,Vikram Kumar,vikram.kumar277@campus.edu,Male,Electronics & Comm,2021-2025,2025,9.93,90.0,0,97.8,100.0,83.2,4.0,4,3,1,83.3,1,Placed,Oracle,Database Developer,14.15
+CT2026CS278,Priya Kumar,priya.kumar278@campus.edu,Male,Computer Science,2022-2026,2026,7.75,93.9,0,64.1,62.0,66.7,3.4,1,2,2,82.8,1,In Process,,,
+CT2025IT279,Aditya Gupta,aditya.gupta279@campus.edu,Male,Information Technology,2021-2025,2025,6.56,80.7,1,68.3,51.9,64.1,2.2,1,2,0,63.9,1,Not Placed,,,
+CT2025IT280,Kavya Chopra,kavya.chopra280@campus.edu,Male,Information Technology,2021-2025,2025,6.67,74.5,1,53.6,57.8,54.5,2.8,2,2,0,64.3,1,Not Placed,,,
+CT2025IT281,Zoya Joshi,zoya.joshi281@campus.edu,Female,Information Technology,2021-2025,2025,7.51,85.5,0,68.1,58.4,63.5,3.2,2,2,2,67.4,1,Placed,Deloitte,Consultant,10.82
+CT2026ME282,Tanvi Banerjee,tanvi.banerjee282@campus.edu,Male,Mechanical,2022-2026,2026,6.16,69.3,2,52.9,33.6,66.7,1.2,0,0,0,48.6,0,Not Placed,,,
+CT2025ME283,Devika Joshi,devika.joshi283@campus.edu,Female,Mechanical,2021-2025,2025,7.74,76.9,0,68.9,79.6,80.8,3.4,2,2,1,77.6,1,Placed,Google,Software Engineer,27.87
+CT2026CS284,Rahul Patel,rahul.patel284@campus.edu,Male,Computer Science,2022-2026,2026,6.83,81.7,2,58.7,59.1,70.1,3.1,1,2,0,66.2,0,Not Placed,,,
+CT2026DS285,Tanvi Kapoor,tanvi.kapoor285@campus.edu,Male,Data Science & AI,2022-2026,2026,7.17,87.6,0,70.0,80.8,58.7,3.1,2,3,1,74.2,1,In Process,,,
+CT2025EC286,Zoya Iyer,zoya.iyer286@campus.edu,Male,Electronics & Comm,2021-2025,2025,5.17,71.7,2,39.7,39.0,41.5,1.5,0,0,0,55.4,0,Not Placed,,,
+CT2025ME287,Aditya Joshi,aditya.joshi287@campus.edu,Female,Mechanical,2021-2025,2025,7.38,81.7,1,71.4,81.7,57.2,3.5,2,1,0,80.7,1,Placed,Cisco,Network Engineer,13.66
+CT2026CS288,Pranav Singh,pranav.singh288@campus.edu,Male,Computer Science,2022-2026,2026,7.66,72.6,0,72.6,65.7,54.5,3.8,2,1,0,60.2,1,Placed,Microsoft,Software Dev Engineer,20.39
+CT2026DS289,Saanvi Kumar,saanvi.kumar289@campus.edu,Female,Data Science & AI,2022-2026,2026,8.35,94.7,0,82.7,97.8,79.6,4.0,4,3,1,76.1,1,In Process,,,
+CT2026ME290,Ishaan Iyer,ishaan.iyer290@campus.edu,Male,Mechanical,2022-2026,2026,7.33,76.7,0,61.0,59.1,79.7,1.7,2,2,0,59.2,1,In Process,,,
+CT2026EC291,Ayush Joshi,ayush.joshi291@campus.edu,Male,Electronics & Comm,2022-2026,2026,8.28,85.2,0,81.2,86.1,80.9,4.0,2,2,2,79.5,1,In Process,,,
+CT2025CS292,Akash Kumar,akash.kumar292@campus.edu,Female,Computer Science,2021-2025,2025,6.87,80.9,0,62.5,66.9,61.2,3.0,3,0,0,81.8,1,Placed,Wipro,Project Engineer,3.76
+CT2025IT293,Vikram Agarwal,vikram.agarwal293@campus.edu,Female,Information Technology,2021-2025,2025,5.99,72.8,2,59.5,35.3,67.3,2.4,1,0,0,57.4,0,Not Placed,,,
+CT2025DS294,Rahul Sharma,rahul.sharma294@campus.edu,Male,Data Science & AI,2021-2025,2025,7.16,76.9,0,62.6,49.4,74.0,2.4,2,1,0,58.7,1,Not Placed,,,
+CT2025CS295,Neha Patel,neha.patel295@campus.edu,Male,Computer Science,2021-2025,2025,7.65,78.9,0,86.2,79.7,71.4,3.4,4,2,1,67.5,1,Placed,Deloitte,Consultant,7.82
+CT2025IT296,Rhea Bhat,rhea.bhat296@campus.edu,Male,Information Technology,2021-2025,2025,9.26,99.0,0,86.2,100.0,96.1,4.7,4,1,2,81.9,1,Placed,Oracle,Database Developer,11.76
+CT2025CS297,Priya Banerjee,priya.banerjee297@campus.edu,Male,Computer Science,2021-2025,2025,6.21,73.7,1,52.1,54.8,48.0,2.2,3,1,0,72.1,1,Not Placed,,,
+CT2025DS298,Kavya Kumar,kavya.kumar298@campus.edu,Male,Data Science & AI,2021-2025,2025,7.82,83.3,0,60.7,71.5,83.6,3.3,3,3,1,68.2,1,Placed,Oracle,Database Developer,11.6
+CT2026IT299,Divya Nair,divya.nair299@campus.edu,Female,Information Technology,2022-2026,2026,7.05,82.2,0,57.0,64.1,72.0,2.9,1,0,0,63.6,1,In Process,,,
+CT2025DS300,Dhruv Menon,dhruv.menon300@campus.edu,Male,Data Science & AI,2021-2025,2025,6.94,79.0,0,68.4,61.6,72.0,3.2,3,3,1,70.3,1,Placed,Wipro,Turbo Dev,5.2
+CT2025ME301,Aarav Saxena,aarav.saxena301@campus.edu,Female,Mechanical,2021-2025,2025,6.23,75.5,2,48.2,40.3,60.2,2.3,0,1,0,53.4,0,Not Placed,,,
+CT2026CS302,Yash Reddy,yash.reddy302@campus.edu,Female,Computer Science,2022-2026,2026,7.2,75.8,0,64.2,51.8,73.4,3.5,4,2,1,73.6,1,In Process,,,
+CT2025DS303,Sneha Verma,sneha.verma303@campus.edu,Male,Data Science & AI,2021-2025,2025,6.95,73.8,0,49.6,51.3,64.5,2.3,1,3,0,60.5,1,Not Placed,,,
+CT2026DS304,Pranav Saxena,pranav.saxena304@campus.edu,Male,Data Science & AI,2022-2026,2026,6.89,77.1,1,58.9,68.2,71.2,3.0,3,1,1,63.4,1,In Process,,,
+CT2026EC305,Chetan Gupta,chetan.gupta305@campus.edu,Male,Electronics & Comm,2022-2026,2026,6.11,78.9,2,56.6,53.5,62.7,3.0,4,2,0,64.5,0,Not Placed,,,
+CT2025IT306,Saanvi Agarwal,saanvi.agarwal306@campus.edu,Male,Information Technology,2021-2025,2025,8.27,81.4,0,67.8,90.4,85.1,3.8,3,2,1,72.7,1,Placed,Zomato,Backend Developer,10.33
+CT2025DS307,Varun Pillai,varun.pillai307@campus.edu,Male,Data Science & AI,2021-2025,2025,5.72,76.7,1,53.5,55.2,59.7,1.9,1,0,0,54.5,0,Not Placed,,,
+CT2025IT308,Siddharth Das,siddharth.das308@campus.edu,Male,Information Technology,2021-2025,2025,6.49,84.0,2,67.9,59.9,78.4,2.8,1,1,0,73.0,0,Not Placed,,,
+CT2025DS309,Priya Bhat,priya.bhat309@campus.edu,Male,Data Science & AI,2021-2025,2025,7.52,79.8,0,69.2,69.8,74.1,3.6,0,2,1,71.8,1,Placed,Amazon,SDE I,21.09
+CT2026ME310,Isha Gupta,isha.gupta310@campus.edu,Female,Mechanical,2022-2026,2026,8.17,92.8,0,87.8,95.1,77.2,3.5,3,4,1,68.5,1,In Process,,,
+CT2025CS311,Devika Kapoor,devika.kapoor311@campus.edu,Male,Computer Science,2021-2025,2025,7.61,86.5,0,66.9,77.0,54.4,3.5,2,3,0,72.4,1,Placed,Amazon,Operations,25.74
+CT2026DS312,Priya Singh,priya.singh312@campus.edu,Male,Data Science & AI,2022-2026,2026,6.56,80.2,0,55.9,56.8,78.7,3.1,3,1,0,70.3,1,In Process,,,
+CT2025DS313,Aarav Das,aarav.das313@campus.edu,Other,Data Science & AI,2021-2025,2025,7.91,84.4,1,87.7,75.5,76.7,4.4,3,2,2,73.0,1,Placed,Microsoft,Support Engineer,25.48
+CT2025EC314,Nikhil Nair,nikhil.nair314@campus.edu,Male,Electronics & Comm,2021-2025,2025,5.78,76.0,2,55.7,60.0,63.7,1.9,1,1,1,53.0,0,Not Placed,,,
+CT2026IT315,Tanvi Deshmukh,tanvi.deshmukh315@campus.edu,Male,Information Technology,2022-2026,2026,7.98,87.1,0,80.6,73.1,97.0,3.2,2,4,1,81.9,1,Placed,Zomato,Backend Developer,11.72
+CT2025ME316,Sneha Malhotra,sneha.malhotra316@campus.edu,Male,Mechanical,2021-2025,2025,8.45,91.6,0,72.7,77.9,71.0,3.5,4,3,1,93.4,1,Placed,Oracle,Database Developer,12.47
+CT2026EC317,Vikram Iyer,vikram.iyer317@campus.edu,Female,Electronics & Comm,2022-2026,2026,6.51,73.4,2,61.3,55.3,60.9,2.5,3,3,0,54.6,0,Not Placed,,,
+CT2025EC318,Zoya Deshmukh,zoya.deshmukh318@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.15,83.4,0,72.2,60.7,66.3,2.7,1,1,0,73.0,1,Placed,Cognizant,Programmer Analyst,5.32
+CT2026CS319,Rhea Das,rhea.das319@campus.edu,Male,Computer Science,2022-2026,2026,6.8,87.1,0,60.0,61.2,71.1,2.5,1,1,1,62.1,1,In Process,,,
+CT2025IT320,Yash Singh,yash.singh320@campus.edu,Male,Information Technology,2021-2025,2025,9.54,99.0,0,82.0,100.0,81.4,4.0,4,3,1,85.1,1,Placed,Google,Cloud Associate,28.34
+CT2025EC321,Divya Pillai,divya.pillai321@campus.edu,Female,Electronics & Comm,2021-2025,2025,8.66,84.0,0,82.6,77.0,73.6,4.1,3,4,2,80.9,1,Placed,Deloitte,Consultant,8.91
+CT2025DS322,Vidya Nair,vidya.nair322@campus.edu,Female,Data Science & AI,2021-2025,2025,6.82,73.0,3,59.1,44.5,63.1,2.5,0,2,1,71.3,0,Not Placed,,,
+CT2025IT323,Priya Deshmukh,priya.deshmukh323@campus.edu,Male,Information Technology,2021-2025,2025,8.38,81.5,0,88.6,79.9,68.7,4.1,5,3,2,91.8,1,Placed,Amazon,Data Engineer,21.65
+CT2025ME324,Devika Joshi,devika.joshi324@campus.edu,Other,Mechanical,2021-2025,2025,7.68,78.0,0,76.0,69.7,58.9,2.8,2,2,1,83.9,1,Placed,Zomato,Product Operations,10.1
+CT2025IT325,Aditi Pillai,aditi.pillai325@campus.edu,Male,Information Technology,2021-2025,2025,7.29,81.0,0,74.6,75.8,76.3,3.0,4,2,1,78.0,1,Placed,Cisco,Systems Engineer,15.86
+CT2026ME326,Chetan Kapoor,chetan.kapoor326@campus.edu,Female,Mechanical,2022-2026,2026,6.49,67.8,0,56.9,49.3,74.9,2.6,2,1,0,75.9,0,Not Placed,,,
+CT2025CS327,Sneha Saxena,sneha.saxena327@campus.edu,Male,Computer Science,2021-2025,2025,6.37,69.4,2,46.2,47.1,57.7,2.2,2,1,0,61.2,0,Not Placed,,,
+CT2026ME328,Saanvi Reddy,saanvi.reddy328@campus.edu,Male,Mechanical,2022-2026,2026,5.69,69.2,2,53.1,41.3,66.1,1.2,2,0,0,62.2,0,Not Placed,,,
+CT2026ME329,Priya Saxena,priya.saxena329@campus.edu,Male,Mechanical,2022-2026,2026,8.95,90.9,0,85.0,68.6,75.8,3.7,2,2,2,68.2,1,In Process,,,
+CT2025DS330,Aarav Sharma,aarav.sharma330@campus.edu,Female,Data Science & AI,2021-2025,2025,7.29,85.7,0,59.0,67.5,70.0,3.0,3,3,0,64.7,1,Placed,TCS,Ninja Developer,6.45
+CT2026CS331,Ishaan Singh,ishaan.singh331@campus.edu,Other,Computer Science,2022-2026,2026,8.47,91.3,0,94.7,84.9,76.2,4.3,3,2,2,70.5,1,Placed,Amazon,SDE I,24.82
+CT2025EC332,Deepak Reddy,deepak.reddy332@campus.edu,Female,Electronics & Comm,2021-2025,2025,9.32,89.1,0,90.2,88.9,96.1,4.4,3,3,1,90.9,1,Placed,Amazon,Data Engineer,25.16
+CT2026EC333,Bhavya Bhat,bhavya.bhat333@campus.edu,Female,Electronics & Comm,2022-2026,2026,7.47,82.1,0,76.1,71.2,88.1,3.6,2,0,0,78.9,1,In Process,,,
+CT2026DS334,Sneha Kulkarni,sneha.kulkarni334@campus.edu,Female,Data Science & AI,2022-2026,2026,7.13,85.6,1,49.6,59.5,57.3,2.4,3,2,0,71.2,1,Not Placed,,,
+CT2026DS335,Sneha Pillai,sneha.pillai335@campus.edu,Female,Data Science & AI,2022-2026,2026,7.98,94.8,0,74.2,82.2,79.2,3.9,4,2,1,70.3,1,Placed,Google,Software Engineer,26.83
+CT2025DS336,Ayush Chopra,ayush.chopra336@campus.edu,Female,Data Science & AI,2021-2025,2025,7.3,77.7,0,78.2,62.2,68.7,2.4,2,2,1,63.3,1,Placed,Deloitte,Technology Analyst,10.92
+CT2025EC337,Akash Reddy,akash.reddy337@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.93,76.7,1,50.8,49.8,48.7,2.2,3,2,0,78.1,1,Not Placed,,,
+CT2025ME338,Divya Das,divya.das338@campus.edu,Female,Mechanical,2021-2025,2025,7.63,77.7,2,53.2,61.0,70.9,2.3,2,1,1,62.7,0,Not Placed,,,
+CT2025CS339,Vikram Kapoor,vikram.kapoor339@campus.edu,Male,Computer Science,2021-2025,2025,6.15,76.8,1,57.2,55.0,64.1,3.3,1,0,0,67.2,1,Not Placed,,,
+CT2026DS340,Aditi Reddy,aditi.reddy340@campus.edu,Male,Data Science & AI,2022-2026,2026,6.16,78.0,1,56.6,53.2,64.5,2.8,1,1,0,57.2,1,Not Placed,,,
+CT2025ME341,Siddharth Joshi,siddharth.joshi341@campus.edu,Male,Mechanical,2021-2025,2025,7.1,90.1,0,74.1,65.9,63.0,3.2,3,3,0,70.8,1,Placed,Cognizant,GenC Next,6.01
+CT2025DS342,Ishaan Sharma,ishaan.sharma342@campus.edu,Male,Data Science & AI,2021-2025,2025,7.72,76.4,0,70.1,62.2,73.2,3.2,2,1,2,67.9,1,Placed,Oracle,Cloud Analyst,14.51
+CT2025IT343,Saanvi Reddy,saanvi.reddy343@campus.edu,Male,Information Technology,2021-2025,2025,7.71,82.8,0,75.5,65.0,84.5,3.0,2,2,0,68.0,1,Placed,TCS,Digital Innovator,6.6
+CT2025EC344,Saanvi Verma,saanvi.verma344@campus.edu,Female,Electronics & Comm,2021-2025,2025,7.53,89.2,0,72.8,78.3,86.9,3.0,2,2,1,84.4,1,Placed,Cisco,Systems Engineer,15.29
+CT2026IT345,Aarav Das,aarav.das345@campus.edu,Female,Information Technology,2022-2026,2026,7.76,91.1,0,70.1,75.3,72.1,3.1,4,3,0,83.3,1,In Process,,,
+CT2026IT346,Gaurav Agarwal,gaurav.agarwal346@campus.edu,Female,Information Technology,2022-2026,2026,7.71,83.1,0,73.4,65.2,73.9,2.7,4,1,1,78.8,1,In Process,,,
+CT2025DS347,Aditya Saxena,aditya.saxena347@campus.edu,Female,Data Science & AI,2021-2025,2025,8.42,90.6,0,80.7,78.9,89.4,3.8,3,2,2,67.2,1,Placed,Google,Software Engineer,26.13
+CT2025ME348,Vikram Joshi,vikram.joshi348@campus.edu,Female,Mechanical,2021-2025,2025,7.82,79.6,1,73.8,72.7,72.9,2.2,2,3,1,74.5,1,Placed,Oracle,Cloud Analyst,14.43
+CT2025IT349,Pooja Saxena,pooja.saxena349@campus.edu,Male,Information Technology,2021-2025,2025,7.46,88.8,0,51.8,59.7,68.2,3.2,1,3,0,71.0,1,Placed,Wipro,Turbo Dev,6.14
+CT2025CS350,Aditi Rao,aditi.rao350@campus.edu,Male,Computer Science,2021-2025,2025,7.29,80.2,0,63.3,61.5,60.5,2.5,3,2,0,78.3,1,Not Placed,,,
+CT2026EC351,Dhruv Verma,dhruv.verma351@campus.edu,Female,Electronics & Comm,2022-2026,2026,8.25,91.9,0,81.0,96.4,76.0,4.3,4,3,2,69.1,1,Placed,TCS,Ninja Developer,5.89
+CT2026ME352,Vikram Rao,vikram.rao352@campus.edu,Male,Mechanical,2022-2026,2026,7.61,92.8,0,61.0,74.1,85.9,3.0,3,1,1,68.4,1,Placed,Cognizant,Programmer Analyst,6.59
+CT2026EC353,Aryan Sharma,aryan.sharma353@campus.edu,Female,Electronics & Comm,2022-2026,2026,6.52,67.7,0,62.3,57.9,65.6,1.8,3,3,1,65.0,0,Not Placed,,,
+CT2026DS354,Rahul Pillai,rahul.pillai354@campus.edu,Male,Data Science & AI,2022-2026,2026,6.42,81.2,2,57.3,49.1,63.7,2.6,1,1,0,59.2,0,Not Placed,,,
+CT2026IT355,Utkarsh Reddy,utkarsh.reddy355@campus.edu,Male,Information Technology,2022-2026,2026,7.24,95.4,0,74.7,68.7,69.0,2.8,2,2,1,59.7,1,Placed,Wipro,Turbo Dev,3.62
+CT2025IT356,Pooja Menon,pooja.menon356@campus.edu,Male,Information Technology,2021-2025,2025,7.32,72.6,1,66.6,72.3,75.5,3.1,2,1,1,78.9,1,Placed,Cisco,Systems Engineer,12.36
+CT2025ME357,Vidya Banerjee,vidya.banerjee357@campus.edu,Male,Mechanical,2021-2025,2025,7.02,83.7,0,50.9,54.7,74.8,2.8,2,1,1,72.2,1,Placed,Infosys,Specialist Programmer,5.03
+CT2025ME358,Vikram Kapoor,vikram.kapoor358@campus.edu,Male,Mechanical,2021-2025,2025,9.05,85.9,0,77.0,88.8,87.1,4.1,2,2,2,80.6,1,Placed,Oracle,Database Developer,15.79
+CT2025EC359,Deepak Rao,deepak.rao359@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.82,82.4,0,83.0,83.7,69.1,3.5,3,2,1,83.8,1,Placed,Zomato,Product Operations,12.57
+CT2025DS360,Harsh Joshi,harsh.joshi360@campus.edu,Male,Data Science & AI,2021-2025,2025,8.92,85.7,1,78.4,93.2,81.6,4.8,4,2,1,74.2,1,Placed,Google,Software Engineer,24.11
+CT2025IT361,Sahil Kapoor,sahil.kapoor361@campus.edu,Female,Information Technology,2021-2025,2025,6.82,82.9,0,62.1,50.1,66.8,3.1,2,3,0,72.6,1,Placed,Infosys,Systems Engineer,4.17
+CT2025EC362,Yash Gupta,yash.gupta362@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.68,74.2,0,52.9,59.1,51.9,2.4,2,1,0,60.2,1,Not Placed,,,
+CT2026DS363,Vidya Sharma,vidya.sharma363@campus.edu,Female,Data Science & AI,2022-2026,2026,6.64,74.3,1,59.2,54.1,56.1,2.7,2,1,0,78.4,1,Not Placed,,,
+CT2025CS364,Nikhil Menon,nikhil.menon364@campus.edu,Male,Computer Science,2021-2025,2025,7.29,79.2,0,69.0,69.5,82.3,3.1,2,3,0,71.9,1,Placed,Accenture,Advanced Analyst,4.81
+CT2026DS365,Vidya Deshmukh,vidya.deshmukh365@campus.edu,Female,Data Science & AI,2022-2026,2026,7.76,86.7,0,72.1,70.3,85.4,3.5,3,2,1,84.1,1,In Process,,,
+CT2026EC366,Aarav Banerjee,aarav.banerjee366@campus.edu,Female,Electronics & Comm,2022-2026,2026,7.16,81.3,0,69.3,61.7,51.0,2.4,1,1,0,73.1,1,Not Placed,,,
+CT2025DS367,Bhavya Deshmukh,bhavya.deshmukh367@campus.edu,Male,Data Science & AI,2021-2025,2025,8.23,78.5,0,78.4,70.9,79.1,3.3,4,2,1,69.2,1,Placed,Deloitte,Technology Analyst,8.06
+CT2025EC368,Gaurav Malhotra,gaurav.malhotra368@campus.edu,Female,Electronics & Comm,2021-2025,2025,8.63,88.8,0,91.6,88.6,73.2,3.9,3,1,3,76.8,1,Placed,Cisco,Network Engineer,13.45
+CT2025CS369,Zoya Kumar,zoya.kumar369@campus.edu,Female,Computer Science,2021-2025,2025,6.58,81.7,1,61.6,43.5,50.0,1.8,0,1,0,70.5,1,Not Placed,,,
+CT2025EC370,Nikhil Saxena,nikhil.saxena370@campus.edu,Female,Electronics & Comm,2021-2025,2025,7.42,81.1,0,78.4,74.3,83.9,2.8,2,3,0,75.4,1,Placed,Cisco,Network Engineer,12.02
+CT2026IT371,Sahil Chopra,sahil.chopra371@campus.edu,Female,Information Technology,2022-2026,2026,8.07,88.2,0,71.6,80.2,84.8,3.8,5,3,1,77.9,1,In Process,,,
+CT2026EC372,Tanvi Banerjee,tanvi.banerjee372@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.11,78.2,0,69.9,68.8,71.9,3.1,3,2,0,67.5,1,Placed,Amazon,Operations,19.57
+CT2026CS373,Aditi Das,aditi.das373@campus.edu,Female,Computer Science,2022-2026,2026,7.87,78.7,0,73.6,75.9,65.0,3.8,2,3,1,70.7,1,In Process,,,
+CT2025CS374,Vidya Banerjee,vidya.banerjee374@campus.edu,Male,Computer Science,2021-2025,2025,6.02,79.1,1,61.2,48.3,52.2,3.1,3,0,0,62.7,1,Not Placed,,,
+CT2025ME375,Rahul Das,rahul.das375@campus.edu,Male,Mechanical,2021-2025,2025,8.68,85.2,0,81.6,86.8,80.1,4.2,2,2,3,81.5,1,Placed,Zomato,Backend Developer,12.23
+CT2026ME376,Dhruv Agarwal,dhruv.agarwal376@campus.edu,Female,Mechanical,2022-2026,2026,7.1,80.6,1,64.5,70.3,64.0,3.4,1,1,0,82.0,1,Not Placed,,,
+CT2025IT377,Rahul Rao,rahul.rao377@campus.edu,Male,Information Technology,2021-2025,2025,6.9,75.3,0,45.3,66.6,61.1,2.7,3,1,0,71.7,1,Not Placed,,,
+CT2025ME378,Meera Agarwal,meera.agarwal378@campus.edu,Male,Mechanical,2021-2025,2025,7.01,70.9,1,64.8,71.3,58.7,2.3,1,2,0,60.9,1,Not Placed,,,
+CT2026DS379,Ishaan Das,ishaan.das379@campus.edu,Male,Data Science & AI,2022-2026,2026,6.89,78.2,0,58.9,61.1,66.5,3.1,1,1,0,72.2,1,In Process,,,
+CT2025ME380,Devika Singh,devika.singh380@campus.edu,Male,Mechanical,2021-2025,2025,7.54,78.0,0,70.9,77.5,75.8,3.0,2,2,1,76.7,1,Placed,Microsoft,Software Dev Engineer,22.9
+CT2026CS381,Saanvi Joshi,saanvi.joshi381@campus.edu,Female,Computer Science,2022-2026,2026,7.97,87.2,0,92.7,89.9,83.8,3.7,3,2,2,81.8,1,Placed,Amazon,Operations,24.67
+CT2025CS382,Zoya Iyer,zoya.iyer382@campus.edu,Male,Computer Science,2021-2025,2025,7.4,81.8,1,66.1,56.1,77.7,2.6,2,2,1,70.6,1,Placed,TCS,Digital Innovator,6.94
+CT2026EC383,Isha Singh,isha.singh383@campus.edu,Female,Electronics & Comm,2022-2026,2026,7.86,79.8,0,70.5,87.1,79.5,3.5,3,3,1,77.6,1,Placed,Accenture,Associate Software Engineer,6.09
+CT2025IT384,Utkarsh Chopra,utkarsh.chopra384@campus.edu,Male,Information Technology,2021-2025,2025,8.39,91.8,0,87.8,95.0,83.5,3.6,4,2,3,83.3,1,Placed,Microsoft,Support Engineer,21.06
+CT2026ME385,Utkarsh Malhotra,utkarsh.malhotra385@campus.edu,Male,Mechanical,2022-2026,2026,7.83,83.9,0,76.4,76.8,65.1,3.7,1,2,0,74.1,1,In Process,,,
+CT2026CS386,Vidya Das,vidya.das386@campus.edu,Female,Computer Science,2022-2026,2026,6.33,66.8,1,62.2,47.2,70.3,2.1,1,1,0,61.9,0,Not Placed,,,
+CT2025DS387,Rahul Verma,rahul.verma387@campus.edu,Female,Data Science & AI,2021-2025,2025,9.51,92.5,0,97.3,91.2,93.4,4.0,3,4,3,83.4,1,Placed,Amazon,Operations,24.44
+CT2025ME388,Devika Chopra,devika.chopra388@campus.edu,Male,Mechanical,2021-2025,2025,8.66,80.0,0,75.5,84.7,74.7,3.4,4,2,3,75.9,1,Placed,Cisco,Systems Engineer,12.95
+CT2025CS389,Deepak Das,deepak.das389@campus.edu,Male,Computer Science,2021-2025,2025,6.43,70.6,2,50.0,45.3,53.8,2.4,2,1,0,62.3,0,Not Placed,,,
+CT2025EC390,Vidya Kulkarni,vidya.kulkarni390@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.21,78.0,2,40.6,49.2,64.4,1.2,2,2,1,59.4,0,Not Placed,,,
+CT2025IT391,Vikram Kumar,vikram.kumar391@campus.edu,Male,Information Technology,2021-2025,2025,6.39,74.0,1,57.3,44.8,45.6,1.8,2,2,0,55.0,1,Not Placed,,,
+CT2026DS392,Divya Reddy,divya.reddy392@campus.edu,Male,Data Science & AI,2022-2026,2026,6.95,81.2,0,79.7,63.1,69.5,2.7,3,2,0,71.9,1,In Process,,,
+CT2025CS393,Aarav Patel,aarav.patel393@campus.edu,Female,Computer Science,2021-2025,2025,7.4,91.5,0,78.2,76.2,79.1,3.7,3,2,1,83.9,1,Placed,Amazon,SDE I,20.97
+CT2026DS394,Rohan Menon,rohan.menon394@campus.edu,Female,Data Science & AI,2022-2026,2026,8.12,84.4,0,88.8,69.6,67.7,4.0,4,3,3,77.1,1,Placed,Amazon,Operations,21.95
+CT2025ME395,Ananya Menon,ananya.menon395@campus.edu,Male,Mechanical,2021-2025,2025,7.71,92.3,0,83.5,66.9,67.7,3.1,4,1,1,73.8,1,Placed,Amazon,SDE I,23.24
+CT2026CS396,Rohan Bhat,rohan.bhat396@campus.edu,Female,Computer Science,2022-2026,2026,6.76,80.0,2,46.0,58.9,60.6,2.5,1,2,0,65.5,0,Not Placed,,,
+CT2026ME397,Priya Bhat,priya.bhat397@campus.edu,Female,Mechanical,2022-2026,2026,6.65,73.5,0,64.4,58.0,59.4,2.2,1,0,0,59.3,1,Not Placed,,,
+CT2025DS398,Kunal Iyer,kunal.iyer398@campus.edu,Male,Data Science & AI,2021-2025,2025,7.78,82.0,0,67.5,69.2,72.5,2.9,3,1,0,71.8,1,Placed,Accenture,Advanced Analyst,6.25
+CT2025ME399,Sakshi Rao,sakshi.rao399@campus.edu,Female,Mechanical,2021-2025,2025,8.52,98.0,0,74.1,86.4,69.0,3.7,4,1,2,77.3,1,Placed,Microsoft,Software Dev Engineer,23.86
+CT2025DS400,Ishaan Malhotra,ishaan.malhotra400@campus.edu,Female,Data Science & AI,2021-2025,2025,5.77,74.2,3,45.2,37.7,52.0,1.9,1,3,0,66.5,0,Not Placed,,,
+CT2025EC401,Pranav Patel,pranav.patel401@campus.edu,Female,Electronics & Comm,2021-2025,2025,7.89,83.6,0,82.4,72.0,74.4,3.7,5,3,0,79.6,1,Placed,Oracle,Cloud Analyst,11.91
+CT2025IT402,Harsh Gupta,harsh.gupta402@campus.edu,Female,Information Technology,2021-2025,2025,7.1,75.6,2,55.0,44.7,66.7,2.3,1,1,0,62.2,0,Not Placed,,,
+CT2025CS403,Bhavya Malhotra,bhavya.malhotra403@campus.edu,Female,Computer Science,2021-2025,2025,7.93,90.7,0,97.9,88.5,91.1,4.1,4,2,1,83.6,1,Placed,Zomato,Product Operations,11.86
+CT2026ME404,Tanvi Iyer,tanvi.iyer404@campus.edu,Other,Mechanical,2022-2026,2026,6.57,80.7,2,56.5,58.5,67.3,2.6,3,0,0,55.6,0,Not Placed,,,
+CT2026DS405,Ananya Das,ananya.das405@campus.edu,Male,Data Science & AI,2022-2026,2026,6.36,77.8,2,64.2,58.1,56.6,2.8,2,1,0,61.1,0,Not Placed,,,
+CT2025CS406,Isha Rao,isha.rao406@campus.edu,Female,Computer Science,2021-2025,2025,8.67,98.6,0,81.9,82.6,70.0,4.3,3,3,2,84.1,1,Placed,Google,Cloud Associate,26.71
+CT2025EC407,Sahil Nair,sahil.nair407@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.78,75.2,1,62.6,66.3,60.4,2.8,1,1,0,72.2,1,Not Placed,,,
+CT2026CS408,Kavya Banerjee,kavya.banerjee408@campus.edu,Male,Computer Science,2022-2026,2026,7.63,75.8,0,72.4,76.8,81.5,3.6,2,1,0,70.7,1,In Process,,,
+CT2025CS409,Tanvi Mehta,tanvi.mehta409@campus.edu,Other,Computer Science,2021-2025,2025,8.06,76.8,0,79.9,70.0,66.9,3.3,3,2,1,65.1,1,Placed,Zomato,Product Operations,11.5
+CT2025ME410,Chetan Saxena,chetan.saxena410@campus.edu,Male,Mechanical,2021-2025,2025,8.22,84.6,0,73.5,83.2,71.0,4.2,2,3,1,87.8,1,Placed,Google,Cloud Associate,29.45
+CT2025EC411,Kunal Bhat,kunal.bhat411@campus.edu,Male,Electronics & Comm,2021-2025,2025,8.84,81.0,0,82.2,82.1,78.9,4.2,4,3,3,89.7,1,Placed,Amazon,Operations,23.19
+CT2025EC412,Utkarsh Kumar,utkarsh.kumar412@campus.edu,Female,Electronics & Comm,2021-2025,2025,6.97,85.6,0,67.6,76.7,67.5,3.1,3,1,0,72.5,1,Placed,Wipro,Project Engineer,6.12
+CT2025EC413,Akash Pillai,akash.pillai413@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.6,79.6,0,71.9,54.5,63.4,2.8,3,0,0,67.8,1,Placed,Infosys,Specialist Programmer,6.54
+CT2025ME414,Meera Singh,meera.singh414@campus.edu,Female,Mechanical,2021-2025,2025,9.25,84.7,1,89.7,93.9,89.0,3.9,6,2,2,76.1,1,Placed,Google,Software Engineer,30.54
+CT2025CS415,Rohan Reddy,rohan.reddy415@campus.edu,Male,Computer Science,2021-2025,2025,7.92,88.8,1,59.4,68.1,66.5,3.2,3,3,1,71.3,1,Placed,Zomato,Product Operations,12.62
+CT2025DS416,Kavya Agarwal,kavya.agarwal416@campus.edu,Male,Data Science & AI,2021-2025,2025,7.94,83.7,0,73.7,71.7,80.8,4.4,3,1,1,83.7,1,Placed,Google,Software Engineer,28.64
+CT2026EC417,Siddharth Banerjee,siddharth.banerjee417@campus.edu,Female,Electronics & Comm,2022-2026,2026,8.03,84.2,0,78.0,77.9,84.6,3.7,3,3,0,79.2,1,In Process,,,
+CT2025ME418,Yash Kulkarni,yash.kulkarni418@campus.edu,Male,Mechanical,2021-2025,2025,8.04,84.4,0,71.2,76.7,75.0,3.1,3,2,0,73.0,1,Placed,Oracle,Database Developer,15.02
+CT2025EC419,Dhruv Deshmukh,dhruv.deshmukh419@campus.edu,Male,Electronics & Comm,2021-2025,2025,7.27,83.5,0,75.6,70.3,79.6,3.2,2,2,1,78.5,1,Placed,Amazon,Data Engineer,22.28
+CT2026DS420,Sneha Deshmukh,sneha.deshmukh420@campus.edu,Male,Data Science & AI,2022-2026,2026,6.62,85.9,0,59.7,58.5,65.3,2.5,3,1,0,59.8,1,In Process,,,
+CT2025CS421,Harsh Kulkarni,harsh.kulkarni421@campus.edu,Female,Computer Science,2021-2025,2025,7.08,84.3,0,86.4,69.4,55.0,3.1,2,2,0,66.7,1,Placed,Deloitte,Consultant,10.4
+CT2025CS422,Kavya Das,kavya.das422@campus.edu,Female,Computer Science,2021-2025,2025,7.29,91.5,0,74.6,59.6,71.4,3.1,2,1,1,68.3,1,Placed,Amazon,Operations,23.94
+CT2025DS423,Ayush Iyer,ayush.iyer423@campus.edu,Male,Data Science & AI,2021-2025,2025,7.49,80.0,0,59.7,69.6,70.2,3.0,2,1,0,65.9,1,Placed,Cognizant,GenC Next,4.53
+CT2026CS424,Aditi Iyer,aditi.iyer424@campus.edu,Female,Computer Science,2022-2026,2026,7.48,80.9,0,64.6,63.7,70.1,2.5,2,3,0,65.1,1,In Process,,,
+CT2025CS425,Tanvi Nair,tanvi.nair425@campus.edu,Male,Computer Science,2021-2025,2025,8.74,83.0,0,77.6,77.4,98.0,3.9,5,2,2,72.5,1,Placed,Google,Cloud Associate,22.8
+CT2025IT426,Rohan Patel,rohan.patel426@campus.edu,Male,Information Technology,2021-2025,2025,9.35,98.4,0,91.1,85.9,92.1,4.6,4,3,3,91.1,1,Placed,Google,Software Engineer,31.75
+CT2026DS427,Sakshi Gupta,sakshi.gupta427@campus.edu,Female,Data Science & AI,2022-2026,2026,7.79,80.4,0,57.1,71.5,63.1,3.0,3,2,1,63.7,1,In Process,,,
+CT2025IT428,Nikhil Joshi,nikhil.joshi428@campus.edu,Male,Information Technology,2021-2025,2025,6.66,83.7,1,63.5,70.1,63.3,2.4,3,0,0,60.8,1,Not Placed,,,
+CT2026CS429,Isha Reddy,isha.reddy429@campus.edu,Male,Computer Science,2022-2026,2026,5.82,78.8,2,43.8,51.6,59.5,2.3,2,1,0,66.6,0,Not Placed,,,
+CT2025CS430,Sneha Saxena,sneha.saxena430@campus.edu,Female,Computer Science,2021-2025,2025,6.65,74.5,0,53.3,54.9,60.9,2.1,4,1,0,50.9,1,Placed,Accenture,Advanced Analyst,6.36
+CT2025CS431,Dhruv Saxena,dhruv.saxena431@campus.edu,Male,Computer Science,2021-2025,2025,8.34,85.3,0,76.0,85.8,66.7,4.3,3,4,2,76.3,1,Placed,Amazon,Data Engineer,24.44
+CT2025IT432,Rhea Bhat,rhea.bhat432@campus.edu,Female,Information Technology,2021-2025,2025,8.42,94.0,0,98.3,94.1,83.2,3.9,2,3,1,74.4,1,Placed,Amazon,Operations,21.92
+CT2025ME433,Siddharth Chopra,siddharth.chopra433@campus.edu,Female,Mechanical,2021-2025,2025,6.57,75.8,0,75.5,71.9,61.8,2.9,1,3,1,70.8,1,Placed,Oracle,Database Developer,13.25
+CT2025ME434,Aarav Kapoor,aarav.kapoor434@campus.edu,Male,Mechanical,2021-2025,2025,7.3,75.1,1,64.3,59.4,74.0,2.1,1,0,1,66.7,1,Not Placed,,,
+CT2026ME435,Harsh Das,harsh.das435@campus.edu,Female,Mechanical,2022-2026,2026,7.78,85.7,0,70.8,75.0,72.3,3.8,5,1,0,64.6,1,Placed,Accenture,Advanced Analyst,4.72
+CT2025CS436,Devika Iyer,devika.iyer436@campus.edu,Female,Computer Science,2021-2025,2025,6.59,69.1,0,57.0,51.7,71.2,2.8,2,1,0,49.6,0,Not Placed,,,
+CT2025ME437,Rhea Malhotra,rhea.malhotra437@campus.edu,Male,Mechanical,2021-2025,2025,5.1,65.9,2,43.0,35.6,53.0,1.4,0,1,0,58.9,0,Not Placed,,,
+CT2026IT438,Bhavya Singh,bhavya.singh438@campus.edu,Female,Information Technology,2022-2026,2026,7.88,78.7,0,63.3,68.6,81.6,3.8,4,3,1,74.2,1,In Process,,,
+CT2026EC439,Aryan Menon,aryan.menon439@campus.edu,Male,Electronics & Comm,2022-2026,2026,7.17,79.9,0,63.5,66.1,62.2,2.4,2,1,0,71.1,1,In Process,,,
+CT2026IT440,Chetan Reddy,chetan.reddy440@campus.edu,Female,Information Technology,2022-2026,2026,6.21,67.5,2,49.2,43.6,61.7,1.7,1,2,0,62.7,0,Not Placed,,,
+CT2025ME441,Chetan Kapoor,chetan.kapoor441@campus.edu,Female,Mechanical,2021-2025,2025,7.08,85.4,0,74.5,60.8,63.9,2.5,3,2,0,67.0,1,Placed,Accenture,Associate Software Engineer,6.08
+CT2025ME442,Divya Banerjee,divya.banerjee442@campus.edu,Other,Mechanical,2021-2025,2025,8.77,92.9,0,89.9,95.4,66.8,4.2,4,2,1,75.8,1,Placed,Amazon,Data Engineer,21.3
+CT2025EC443,Yash Banerjee,yash.banerjee443@campus.edu,Male,Electronics & Comm,2021-2025,2025,5.9,69.9,2,49.3,40.8,55.6,1.4,2,1,1,51.2,0,Not Placed,,,
+CT2026CS444,Aditya Sharma,aditya.sharma444@campus.edu,Male,Computer Science,2022-2026,2026,8.93,92.3,1,82.7,86.7,81.5,4.3,4,3,1,95.0,1,Placed,Cisco,Network Engineer,16.28
+CT2025ME445,Yash Pillai,yash.pillai445@campus.edu,Male,Mechanical,2021-2025,2025,8.75,84.6,0,86.6,75.9,97.2,3.5,4,3,1,80.3,1,Placed,Amazon,Operations,20.0
+CT2025EC446,Rohan Pillai,rohan.pillai446@campus.edu,Female,Electronics & Comm,2021-2025,2025,7.78,92.5,0,78.0,67.0,77.0,3.5,2,3,1,76.9,1,Placed,Microsoft,Support Engineer,26.61
+CT2026ME447,Chetan Menon,chetan.menon447@campus.edu,Female,Mechanical,2022-2026,2026,8.21,87.5,0,71.9,64.9,78.1,3.6,3,3,1,73.0,1,Placed,Google,Cloud Associate,25.48
+CT2026DS448,Deepak Gupta,deepak.gupta448@campus.edu,Female,Data Science & AI,2022-2026,2026,6.76,76.5,3,42.6,54.3,68.7,2.3,3,1,1,54.2,0,Not Placed,,,
+CT2025EC449,Dhruv Joshi,dhruv.joshi449@campus.edu,Male,Electronics & Comm,2021-2025,2025,6.65,78.0,0,71.5,60.9,74.8,3.1,2,1,0,81.5,1,Not Placed,,,
+CT2026DS450,Yash Das,yash.das450@campus.edu,Male,Data Science & AI,2022-2026,2026,7.39,86.8,0,69.3,59.3,56.7,2.7,2,1,0,71.1,1,In Process,,,

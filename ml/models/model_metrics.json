@@ -1,0 +1,599 @@
+{
+  "best_model": "Logistic Regression",
+  "trained_samples": 450,
+  "test_samples": 90,
+  "train_samples": 360,
+  "features_used": [
+    "cgpa",
+    "attendance",
+    "backlog_count",
+    "aptitude_score",
+    "technical_score",
+    "communication_score",
+    "programming_rating",
+    "projects_count",
+    "certifications_count",
+    "internships_count",
+    "soft_skills_score",
+    "department"
+  ],
+  "models": {
+    "Logistic Regression": {
+      "name": "Logistic Regression",
+      "accuracy": 0.8333,
+      "precision": 0.8113,
+      "recall": 0.8958,
+      "f1_score": 0.8515,
+      "roc_auc": 0.8929,
+      "cv_f1_mean": 0.8005,
+      "cv_f1_std": 0.0566,
+      "confusion_matrix": {
+        "true_negative": 32,
+        "false_positive": 10,
+        "false_negative": 5,
+        "true_positive": 43
+      },
+      "roc_curve": [
+        {
+          "fpr": 0.0,
+          "tpr": 0.0
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.021
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.021
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.104
+        },
+        {
+          "fpr": 0.048,
+          "tpr": 0.104
+        },
+        {
+          "fpr": 0.048,
+          "tpr": 0.292
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.292
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.583
+        },
+        {
+          "fpr": 0.095,
+          "tpr": 0.583
+        },
+        {
+          "fpr": 0.095,
+          "tpr": 0.625
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.625
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.75
+        },
+        {
+          "fpr": 0.143,
+          "tpr": 0.75
+        },
+        {
+          "fpr": 0.143,
+          "tpr": 0.833
+        },
+        {
+          "fpr": 0.167,
+          "tpr": 0.833
+        },
+        {
+          "fpr": 0.167,
+          "tpr": 0.854
+        },
+        {
+          "fpr": 0.214,
+          "tpr": 0.854
+        },
+        {
+          "fpr": 0.214,
+          "tpr": 0.875
+        },
+        {
+          "fpr": 0.238,
+          "tpr": 0.875
+        },
+        {
+          "fpr": 0.238,
+          "tpr": 0.896
+        },
+        {
+          "fpr": 0.286,
+          "tpr": 0.896
+        },
+        {
+          "fpr": 0.286,
+          "tpr": 0.958
+        },
+        {
+          "fpr": 0.31,
+          "tpr": 0.958
+        },
+        {
+          "fpr": 0.31,
+          "tpr": 0.979
+        },
+        {
+          "fpr": 0.357,
+          "tpr": 0.979
+        },
+        {
+          "fpr": 0.357,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 1.0,
+          "tpr": 1.0
+        }
+      ],
+      "feature_importance": [
+        {
+          "feature": "backlog_count",
+          "importance": 0.2204
+        },
+        {
+          "feature": "aptitude_score",
+          "importance": 0.1425
+        },
+        {
+          "feature": "department_Mechanical",
+          "importance": 0.097
+        },
+        {
+          "feature": "attendance",
+          "importance": 0.0897
+        },
+        {
+          "feature": "cgpa",
+          "importance": 0.0751
+        },
+        {
+          "feature": "department_Data Science & AI",
+          "importance": 0.0703
+        },
+        {
+          "feature": "programming_rating",
+          "importance": 0.0688
+        },
+        {
+          "feature": "internships_count",
+          "importance": 0.0582
+        },
+        {
+          "feature": "projects_count",
+          "importance": 0.0364
+        },
+        {
+          "feature": "department_Computer Science",
+          "importance": 0.0295
+        }
+      ]
+    },
+    "Random Forest": {
+      "name": "Random Forest",
+      "accuracy": 0.8111,
+      "precision": 0.7818,
+      "recall": 0.8958,
+      "f1_score": 0.835,
+      "roc_auc": 0.8487,
+      "cv_f1_mean": 0.8229,
+      "cv_f1_std": 0.026,
+      "confusion_matrix": {
+        "true_negative": 30,
+        "false_positive": 12,
+        "false_negative": 5,
+        "true_positive": 43
+      },
+      "roc_curve": [
+        {
+          "fpr": 0.0,
+          "tpr": 0.0
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.021
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.042
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.042
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.125
+        },
+        {
+          "fpr": 0.048,
+          "tpr": 0.125
+        },
+        {
+          "fpr": 0.048,
+          "tpr": 0.25
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.25
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.271
+        },
+        {
+          "fpr": 0.095,
+          "tpr": 0.271
+        },
+        {
+          "fpr": 0.095,
+          "tpr": 0.396
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.396
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.458
+        },
+        {
+          "fpr": 0.143,
+          "tpr": 0.458
+        },
+        {
+          "fpr": 0.143,
+          "tpr": 0.5
+        },
+        {
+          "fpr": 0.167,
+          "tpr": 0.5
+        },
+        {
+          "fpr": 0.167,
+          "tpr": 0.708
+        },
+        {
+          "fpr": 0.19,
+          "tpr": 0.708
+        },
+        {
+          "fpr": 0.19,
+          "tpr": 0.729
+        },
+        {
+          "fpr": 0.214,
+          "tpr": 0.729
+        },
+        {
+          "fpr": 0.214,
+          "tpr": 0.771
+        },
+        {
+          "fpr": 0.238,
+          "tpr": 0.771
+        },
+        {
+          "fpr": 0.238,
+          "tpr": 0.854
+        },
+        {
+          "fpr": 0.262,
+          "tpr": 0.854
+        },
+        {
+          "fpr": 0.262,
+          "tpr": 0.896
+        },
+        {
+          "fpr": 0.286,
+          "tpr": 0.896
+        },
+        {
+          "fpr": 0.286,
+          "tpr": 0.938
+        },
+        {
+          "fpr": 0.31,
+          "tpr": 0.938
+        },
+        {
+          "fpr": 0.31,
+          "tpr": 0.958
+        },
+        {
+          "fpr": 0.429,
+          "tpr": 0.958
+        },
+        {
+          "fpr": 0.429,
+          "tpr": 0.979
+        },
+        {
+          "fpr": 0.524,
+          "tpr": 0.979
+        },
+        {
+          "fpr": 0.524,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.881,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.976,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 1.0,
+          "tpr": 1.0
+        }
+      ],
+      "feature_importance": [
+        {
+          "feature": "cgpa",
+          "importance": 0.1752
+        },
+        {
+          "feature": "aptitude_score",
+          "importance": 0.1702
+        },
+        {
+          "feature": "technical_score",
+          "importance": 0.1537
+        },
+        {
+          "feature": "programming_rating",
+          "importance": 0.13
+        },
+        {
+          "feature": "attendance",
+          "importance": 0.1068
+        },
+        {
+          "feature": "soft_skills_score",
+          "importance": 0.0786
+        },
+        {
+          "feature": "communication_score",
+          "importance": 0.056
+        },
+        {
+          "feature": "backlog_count",
+          "importance": 0.045
+        },
+        {
+          "feature": "projects_count",
+          "importance": 0.0277
+        },
+        {
+          "feature": "certifications_count",
+          "importance": 0.0158
+        }
+      ]
+    },
+    "Gradient Boosting": {
+      "name": "Gradient Boosting",
+      "accuracy": 0.7889,
+      "precision": 0.7843,
+      "recall": 0.8333,
+      "f1_score": 0.8081,
+      "roc_auc": 0.8447,
+      "cv_f1_mean": 0.7872,
+      "cv_f1_std": 0.0166,
+      "confusion_matrix": {
+        "true_negative": 31,
+        "false_positive": 11,
+        "false_negative": 8,
+        "true_positive": 40
+      },
+      "roc_curve": [
+        {
+          "fpr": 0.0,
+          "tpr": 0.0
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.021
+        },
+        {
+          "fpr": 0.0,
+          "tpr": 0.062
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.062
+        },
+        {
+          "fpr": 0.024,
+          "tpr": 0.312
+        },
+        {
+          "fpr": 0.048,
+          "tpr": 0.312
+        },
+        {
+          "fpr": 0.048,
+          "tpr": 0.396
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.396
+        },
+        {
+          "fpr": 0.071,
+          "tpr": 0.458
+        },
+        {
+          "fpr": 0.095,
+          "tpr": 0.458
+        },
+        {
+          "fpr": 0.095,
+          "tpr": 0.479
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.479
+        },
+        {
+          "fpr": 0.119,
+          "tpr": 0.542
+        },
+        {
+          "fpr": 0.167,
+          "tpr": 0.542
+        },
+        {
+          "fpr": 0.167,
+          "tpr": 0.562
+        },
+        {
+          "fpr": 0.19,
+          "tpr": 0.562
+        },
+        {
+          "fpr": 0.19,
+          "tpr": 0.646
+        },
+        {
+          "fpr": 0.214,
+          "tpr": 0.646
+        },
+        {
+          "fpr": 0.214,
+          "tpr": 0.667
+        },
+        {
+          "fpr": 0.238,
+          "tpr": 0.667
+        },
+        {
+          "fpr": 0.238,
+          "tpr": 0.688
+        },
+        {
+          "fpr": 0.262,
+          "tpr": 0.688
+        },
+        {
+          "fpr": 0.262,
+          "tpr": 0.833
+        },
+        {
+          "fpr": 0.31,
+          "tpr": 0.833
+        },
+        {
+          "fpr": 0.31,
+          "tpr": 0.854
+        },
+        {
+          "fpr": 0.333,
+          "tpr": 0.854
+        },
+        {
+          "fpr": 0.333,
+          "tpr": 0.938
+        },
+        {
+          "fpr": 0.452,
+          "tpr": 0.938
+        },
+        {
+          "fpr": 0.452,
+          "tpr": 0.958
+        },
+        {
+          "fpr": 0.5,
+          "tpr": 0.958
+        },
+        {
+          "fpr": 0.5,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.857,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.905,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.929,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 0.976,
+          "tpr": 1.0
+        },
+        {
+          "fpr": 1.0,
+          "tpr": 1.0
+        }
+      ],
+      "feature_importance": [
+        {
+          "feature": "cgpa",
+          "importance": 0.3913
+        },
+        {
+          "feature": "aptitude_score",
+          "importance": 0.1418
+        },
+        {
+          "feature": "technical_score",
+          "importance": 0.1036
+        },
+        {
+          "feature": "soft_skills_score",
+          "importance": 0.0881
+        },
+        {
+          "feature": "attendance",
+          "importance": 0.069
+        },
+        {
+          "feature": "programming_rating",
+          "importance": 0.0642
+        },
+        {
+          "feature": "backlog_count",
+          "importance": 0.0552
+        },
+        {
+          "feature": "communication_score",
+          "importance": 0.0537
+        },
+        {
+          "feature": "projects_count",
+          "importance": 0.015
+        },
+        {
+          "feature": "department_Mechanical",
+          "importance": 0.0046
+        }
+      ]
+    }
+  },
+  "disclaimer": "Predictions are probabilistic estimates generated by trained machine learning models for guidance and training prioritization. They do not constitute guaranteed placement outcomes."
+}
